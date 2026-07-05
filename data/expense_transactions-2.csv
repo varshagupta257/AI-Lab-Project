@@ -1,0 +1,201 @@
+﻿Transaction_ID;Employee_Level;Department;Client;Merchant;Amount;Justification;Date
+TXN-1001;Executive;Engineering;Atlas Capture;GitHub;218.58;Software subscription - design/collaboration tool, monthly seat renewal;30.06.26
+TXN-1002;Senior;Finance;Internal / No Client;Notion;83.89;Software subscription - design/collaboration tool, monthly seat renewal;23.06.26
+TXN-1003;Manager;Marketing;BlueWave Logistics;Vapiano;380.00;Dinner with client team (4 people) to finalize Q3 proposal;10.06.26
+TXN-1004;Manager;Engineering;Internal / No Client;Officeworks;300.00;general purchase;24.06.26
+TXN-1005;Manager;HR;Internal / No Client;Cafe Einstein;314.16;Team dinner a group of 2 after closing out the sprint;08.06.26
+TXN-1006;Senior;Finance;Meridian Health Systems;Marriott;276.77;"2-day onsite client engagement; covers flights and 1 night hotel, meals billed separately";15.06.26
+TXN-1007;Junior;Marketing;Internal / No Client;Hotel WiFi;Aug 50;Hotel WiFi during client site visit;28.06.26
+TXN-1008;Junior;Sales;Atlas Capture;T-Mobile Hotspot;10. Oct;Hotel WiFi during client site visit;18.06.26
+TXN-1009;Junior;Operations;Internal / No Client;Airport WiFi;12.00;Airport WiFi while traveling for business;07.06.26
+TXN-1010;Manager;Operations;Atlas Capture;Hilton Restaurant;57.99;Coffee/meal with client contact a group of 3 following a successful sprint demo;08.06.26
+TXN-1011;Director;Finance;Internal / No Client;Cafe Einstein;119.55;Team lunch team of 5 catch-up, no client involved;06.06.26
+TXN-1012;Director;Sales;Kestrel Finance Partners;Cafe Einstein;102.95;Coffee/meal with client contact a group of 5 following a successful sprint demo;28.06.26
+TXN-1013;Executive;Finance;Internal / No Client;Hilton Restaurant;631.24;Team dinner 4 of us after closing out the sprint;20.06.26
+TXN-1014;Manager;Operations;BlueWave Logistics;Notion;107.04;Software subscription - design/collaboration tool, monthly seat renewal;22.06.26
+TXN-1015;Manager;Finance;Atlas Capture;Cafe Einstein;97.02;Coffee/meal with client contact (3 people) to review project milestones;11.06.26
+TXN-1016;Junior;HR;Meridian Health Systems;Chutnify Neukölln;602.72;Dinner with client team team of 4 to finalize Q3 proposal;09.06.26
+TXN-1017;Manager;HR;BlueWave Logistics;Ryanair;35.00;"5-day onsite client engagement; covers flights and 4 nights hotel, meals billed separately";24.06.26
+TXN-1018;Senior;Finance;Internal / No Client;Local Pub Berlin;1936.00;Organized team party a group of 40, birthday celebration for a teammate;13.06.26
+TXN-1019;Director;Operations;Internal / No Client;Cafe Einstein;93.95;Project discussion;06.06.26
+TXN-1020;Executive;HR;Internal / No Client;Five Guys;81.11;Team lunch (1 person, no guests) to debrief after sprint retro;26.06.26
+TXN-1021;Director;Finance;Meridian Health Systems;Adobe;272.78;Software subscription - used for client project deliverables;07.06.26
+TXN-1022;Director;Sales;Internal / No Client;Peloton;60.43;Monthly gym membership - stress relief;27.06.26
+TXN-1023;Senior;Engineering;Nova Retail GmbH;Uber;236.38;"2-day onsite client engagement; covers flights and 1 night hotel, meals billed separately";19.06.26
+TXN-1024;Junior;Sales;Internal / No Client;Vapiano;144.84;Team lunch a group of 3 to plan next quarter's roadmap;16.06.26
+TXN-1025;Director;IT;BlueWave Logistics;Figma;87.04;Software subscription - used for client project deliverables;28.06.26
+TXN-1026;Senior;Engineering;Internal / No Client;Local Pub Berlin;1290.56;Organized team party a group of 37, project wrap-up party;24.06.26
+TXN-1027;Manager;Finance;Internal / No Client;Local Pub Berlin;174.25;Team dinner a group of 3 after project close;05.06.26
+TXN-1028;Director;Finance;Internal / No Client;FitX Gym;91.92;Wellness subscription;20.06.26
+TXN-1029;Executive;Engineering;BlueWave Logistics;Cafe Einstein;37.88;Coffee/meal with client contact (2 people) to review project milestones;15.06.26
+TXN-1030;Manager;IT;Internal / No Client;Microsoft 365;68.83;Software subscription - annual license renewal for the department;29.06.26
+TXN-1031;Senior;Engineering;Kestrel Finance Partners;Chutnify Neukölln;243.80;Coffee/meal with client contact 4 of us to review project milestones;06.06.26
+TXN-1032;Junior;Engineering;Meridian Health Systems;Local SIM Provider;14.20;Airport WiFi while traveling for business;24.06.26
+TXN-1033;Director;Sales;Internal / No Client;IKEA;188.61;Monitor for hybrid home/office setup;30.06.26
+TXN-1034;Senior;Marketing;Internal / No Client;Cafe Einstein;142.77;Meeting;21.06.26
+TXN-1035;Executive;Operations;Internal / No Client;Local Pub Berlin;95.95;Team dinner 3 of us after project close;29.06.26
+TXN-1036;Senior;Engineering;Atlas Capture;Cafe Einstein;129.10;Coffee/meal with client contact (5 people) following a successful sprint demo;25.06.26
+TXN-1037;Executive;Engineering;Internal / No Client;Officeworks;222.80;Monitor for hybrid home/office setup;15.06.26
+TXN-1038;Senior;Finance;Internal / No Client;Five Guys;33.02;Solo lunch while working late on month-end close;03.06.26
+TXN-1039;Junior;Engineering;BlueWave Logistics;Boingo Wireless;14.99;Hotel WiFi during business travel;19.06.26
+TXN-1040;Manager;Finance;Internal / No Client;Local Pub Berlin;213.04;Team dinner 2 of us after closing out the sprint;14.06.26
+TXN-1041;Executive;Engineering;BlueWave Logistics;Amazon;27.18;Small hardware adapter needed for client presentation;14.06.26
+TXN-1042;Junior;IT;Internal / No Client;Local Pub Berlin;1449.30;Organized team party (30 people), project wrap-up party;13.06.26
+TXN-1043;Junior;Operations;BlueWave Logistics;Hilton;199.99;Cab ride, was running late for the client meeting;19.06.26
+TXN-1044;Manager;IT;Kestrel Finance Partners;Chutnify Neukölln;210.28;Dinner with client team a group of 2 to finalize Q3 proposal;26.06.26
+TXN-1045;Junior;Engineering;Internal / No Client;The Grand Bar (private room);1743.44;Organized team party (37 people), birthday celebration for a teammate;06.06.26
+TXN-1046;Director;HR;Internal / No Client;PayPal Transfer;16.26;Parking fee for office day;25.06.26
+TXN-1047;Junior;Operations;Nova Retail GmbH;T-Mobile Hotspot;Sep 99;Conference venue WiFi day pass;19.06.26
+TXN-1048;Director;Engineering;Internal / No Client;Kestrel & Vine;117.94;Evening dinner, 2 guests;26.06.26
+TXN-1049;Junior;Operations;Nova Retail GmbH;Local SIM Provider;Jun 50;Hotel WiFi, client project trip;19.06.26
+TXN-1050;Executive;Operations;Internal / No Client;Vapiano;580.52;Team dinner a group of 4 after closing out the sprint;08.06.26
+TXN-1051;Executive;Finance;Internal / No Client;Local Shop;247.09;general purchase;23.06.26
+TXN-1052;Junior;Finance;Internal / No Client;Hotel WiFi;Nov 25;Airport WiFi during layover for client visit;05.06.26
+TXN-1053;Director;IT;Internal / No Client;Sixt Rent a Car;541.41;"3-day travel for internal training in Frankfurt; includes train, 2 nights hotel";28.06.26
+TXN-1054;Manager;Finance;Internal / No Client;Local Bakery;Oct 99;Breakfast meeting with manager to review weekly priorities (2 people);24.06.26
+TXN-1055;Manager;IT;Nova Retail GmbH;Hilton Restaurant;179.68;Coffee/meal with client contact team of 4 to walk through Q3 deliverables;17.06.26
+TXN-1056;Senior;Engineering;Internal / No Client;Hilton Event Hall;1737.68;Organized team party 29 of us, casual Friday team party;30.06.26
+TXN-1057;Senior;Engineering;Kestrel Finance Partners;Marriott;613.97;"3-day onsite client engagement; covers flights and 2 nights hotel, meals billed separately";06.06.26
+TXN-1058;Junior;Operations;Kestrel Finance Partners;Airport WiFi;13.80;Hotel WiFi during overnight business trip;09.06.26
+TXN-1059;Manager;HR;Internal / No Client;Cash Withdrawal;264.91;general purchase;04.06.26
+TXN-1060;Executive;Finance;Internal / No Client;Büro König;251.60;Replacement keyboard and mouse for desk setup;20.06.26
+TXN-1061;Senior;HR;Meridian Health Systems;Cafe Einstein;205.23;Coffee/meal with client contact a group of 3 following a successful sprint demo;10.06.26
+TXN-1062;Senior;Sales;Kestrel Finance Partners;Zoom;284.24;Software subscription - annual license renewal for the department;28.06.26
+TXN-1063;Junior;Engineering;Internal / No Client;Amazon;480.00;Bulk office furniture order for the floor;02.06.26
+TXN-1064;Senior;Operations;Internal / No Client;Vapiano (private room);1403.10;Organized team party 45 of us, birthday celebration for a teammate;10.06.26
+TXN-1065;Executive;Finance;Meridian Health Systems;Local Pub Berlin;525.96;Dinner with client team team of 4 to finalize Q3 proposal;05.06.26
+TXN-1066;Executive;Finance;Internal / No Client;Ryanair;371.02;"2-day travel for internal training in Frankfurt; includes train, 1 night hotel";18.06.26
+TXN-1067;Manager;Sales;Internal / No Client;Vapiano;19.63;Snacks for office during all-hands meeting (approx 12 people);28.06.26
+TXN-1068;Executive;Marketing;Internal / No Client;McFit;48.78;Wellness subscription;09.06.26
+TXN-1069;Executive;Sales;Internal / No Client;Chutnify Neukölln;137.20;Work session;20.06.26
+TXN-1070;Junior;Engineering;Internal / No Client;Cash Withdrawal;248.21;general purchase;07.06.26
+TXN-1071;Director;IT;Internal / No Client;FitX Gym;117.20;Personal training session;23.06.26
+TXN-1072;Director;HR;Internal / No Client;Figma;249.12;Software subscription - annual license renewal for the department;11.06.26
+TXN-1073;Director;IT;Meridian Health Systems;Figma;55.56;Software subscription - design/collaboration tool, monthly seat renewal;03.06.26
+TXN-1074;Manager;Marketing;Internal / No Client;Amazon;200.00;Other;19.06.26
+TXN-1075;Senior;Engineering;Internal / No Client;Cash Withdrawal;253.58;various;07.06.26
+TXN-1076;Junior;Operations;Internal / No Client;Boingo Wireless;Jul 40;Local data/WiFi hotspot for remote work day;20.06.26
+TXN-1077;Director;Engineering;Internal / No Client;Sixt Rent a Car;591.96;"4-day travel for internal training in Frankfurt; includes train, 3 nights hotel";25.06.26
+TXN-1078;Senior;IT;Internal / No Client;Sixt Rent a Car;200.00;expense;26.06.26
+TXN-1079;Manager;Marketing;BlueWave Logistics;Amazon;125.80;SIM card / local data plan for business trip;21.06.26
+TXN-1080;Junior;Finance;Meridian Health Systems;DB Bahn;180.44;Train ticket for 1-day client site visit;23.06.26
+TXN-1081;Executive;Engineering;Internal / No Client;Cafe Einstein;14.48;Working lunch alone between back-to-back meetings;28.06.26
+TXN-1082;Senior;HR;Meridian Health Systems;Starbucks;319.12;Coffee/meal with client contact (4 people) following a successful sprint demo;22.06.26
+TXN-1083;Senior;Finance;Nova Retail GmbH;Figma;73.11;Software subscription - annual license renewal for the department;17.06.26
+TXN-1084;Junior;Marketing;Internal / No Client;Notion;69.97;Software subscription - annual license renewal for the department;04.06.26
+TXN-1085;Senior;IT;Internal / No Client;Cafe Einstein;37.73;Working lunch alone between back-to-back meetings;15.06.26
+TXN-1086;Director;Sales;Nova Retail GmbH;Hilton;507.62;"4-day onsite client engagement; covers flights and 3 nights hotel, meals billed separately";05.06.26
+TXN-1087;Manager;Operations;BlueWave Logistics;Trainline;28.50;"2-day onsite client engagement; covers flights and 1 night hotel, meals billed separately";07.06.26
+TXN-1088;Senior;Sales;Internal / No Client;Five Guys;191.58;Team lunch 3 of us to welcome a new team member;20.06.26
+TXN-1089;Director;Finance;Internal / No Client;Kestrel & Vine;122.31;Dinner;20.06.26
+TXN-1090;Manager;Finance;Nova Retail GmbH;Cash Withdrawal;140.83;Small hardware adapter needed for client presentation;29.06.26
+TXN-1091;Junior;Sales;Kestrel Finance Partners;Lufthansa;108.85;Cab ride, was running late for the client meeting;02.06.26
+TXN-1092;Senior;Engineering;Internal / No Client;Five Guys;Sep 34;Working lunch alone between back-to-back meetings;28.06.26
+TXN-1093;Manager;Marketing;Meridian Health Systems;Sixt Rent a Car;22.75;Expense - receipt attached;28.06.26
+TXN-1094;Director;Finance;Nova Retail GmbH;Cash Withdrawal;161.37;SIM card / local data plan for business trip;01.06.26
+TXN-1095;Executive;Finance;Meridian Health Systems;Ryanair;518.73;"5-day onsite client engagement; covers flights and 4 nights hotel, meals billed separately";05.06.26
+TXN-1096;Executive;Sales;Internal / No Client;Local Shop;250.00;expense;07.06.26
+TXN-1097;Executive;Engineering;BlueWave Logistics;Miro;254.64;Software subscription - annual license renewal for the department;15.06.26
+TXN-1098;Manager;Finance;Internal / No Client;Hilton Event Hall;1768.32;Team party for Finance - a group of 32, end-of-project wrap party;20.06.26
+TXN-1099;Executive;HR;Atlas Capture;Unknown Vendor;86.52;Postage for signed contract documents;05.06.26
+TXN-1100;Executive;IT;Internal / No Client;Kestrel & Vine;169.44;Dinner for 2;21.06.26
+TXN-1101;Director;Operations;BlueWave Logistics;DB Bahn;249.21;"2-day onsite client engagement; covers flights and 1 night hotel, meals billed separately";22.06.26
+TXN-1102;Junior;Engineering;Internal / No Client;Slack;294.71;Software subscription - design/collaboration tool, monthly seat renewal;18.06.26
+TXN-1103;Senior;Finance;Internal / No Client;Vapiano (private room);480.76;Organized team party 17 of us, casual Friday team party;27.06.26
+TXN-1104;Executive;Marketing;Nova Retail GmbH;Hilton Restaurant;95.00;Dinner with client team (1 person, no guests) to finalize Q3 proposal;14.06.26
+TXN-1105;Senior;Marketing;Nova Retail GmbH;Cash Withdrawal;442.28;Trip cost;05.06.26
+TXN-1106;Manager;Sales;Internal / No Client;Staples;95.27;Replacement keyboard and mouse for desk setup;05.06.26
+TXN-1107;Manager;IT;Internal / No Client;Cafe Einstein;33.60;Solo lunch while working late on month-end close;25.06.26
+TXN-1108;Manager;Sales;Internal / No Client;Local Pub Berlin;1684.31;Team party for Sales - 43 of us, Q2 close celebration;20.06.26
+TXN-1109;Executive;Operations;Internal / No Client;Five Guys;34.56;Breakfast meeting with manager to review weekly priorities (2 people);12.06.26
+TXN-1110;Junior;HR;Internal / No Client;Cafe Einstein;97.82;Project discussion;28.06.26
+TXN-1111;Junior;Finance;BlueWave Logistics;Unknown Vendor;51.56;SIM card / local data plan for business trip;17.06.26
+TXN-1112;Junior;Operations;BlueWave Logistics;The Grand Bar;324.12;Dinner with client team 3 of us to finalize Q3 proposal;29.06.26
+TXN-1113;Senior;HR;Meridian Health Systems;Zoom;156.52;Software subscription - used for client project deliverables;22.06.26
+TXN-1114;Executive;Operations;Internal / No Client;McFit;81.84;Personal training session;27.06.26
+TXN-1115;Junior;Engineering;Meridian Health Systems;Notion;143.87;Software subscription - annual license renewal for the department;22.06.26
+TXN-1116;Senior;Finance;Meridian Health Systems;Cash Withdrawal;21.80;SIM card / local data plan for business trip;06.06.26
+TXN-1117;Executive;Marketing;Internal / No Client;Cafe Einstein;270.80;Team lunch (4 people) to plan next quarter's roadmap;09.06.26
+TXN-1118;Manager;HR;Internal / No Client;Staples;296.16;Replacement keyboard and mouse for desk setup;02.06.26
+TXN-1119;Junior;Engineering;Internal / No Client;Vapiano;59.16;Team lunch a group of 2 to welcome a new team member;08.06.26
+TXN-1120;Senior;Sales;Internal / No Client;Büro König;97.56;Monitor for hybrid home/office setup;14.06.26
+TXN-1121;Executive;IT;Internal / No Client;Ryanair;645.14;"5-day travel for internal training in Frankfurt; includes train, 4 nights hotel";06.06.26
+TXN-1122;Senior;IT;Atlas Capture;Starbucks;82.91;Coffee/meal with client contact just me to walk through Q3 deliverables;23.06.26
+TXN-1123;Director;Operations;Kestrel Finance Partners;Sixt Rent a Car;148.52;"4-day onsite client engagement; covers flights and 3 nights hotel, meals billed separately";25.06.26
+TXN-1124;Director;Engineering;Meridian Health Systems;DB Bahn;508.25;"5-day onsite client engagement; covers flights and 4 nights hotel, meals billed separately";08.06.26
+TXN-1125;Junior;Engineering;Meridian Health Systems;Chutnify Neukölln;345.96;Coffee/meal with client contact a group of 4 to review project milestones;13.06.26
+TXN-1126;Junior;Finance;Internal / No Client;IKEA;125.68;Printer paper and toner for the office;05.06.26
+TXN-1127;Manager;Operations;Internal / No Client;Zoom;131.64;Software subscription - internal tooling for the team;12.06.26
+TXN-1128;Manager;IT;BlueWave Logistics;Chutnify Neukölln;292.60;Coffee/meal with client contact team of 4 to walk through Q3 deliverables;10.06.26
+TXN-1129;Director;Marketing;Internal / No Client;Chutnify Neukölln;14. Dec;Breakfast meeting with manager to review weekly priorities (2 people);24.06.26
+TXN-1130;Executive;Sales;Kestrel Finance Partners;Trainline;412.43;"3-day onsite client engagement; covers flights and 2 nights hotel, meals billed separately";19.06.26
+TXN-1131;Senior;Operations;Internal / No Client;Amazon;204.35;Printer paper and toner for the office;06.06.26
+TXN-1132;Manager;Operations;Internal / No Client;Vapiano (private room);1303.55;Team party for Operations - team of 31, new hire welcome party;26.06.26
+TXN-1133;Executive;Marketing;Internal / No Client;Vapiano;31.18;Working lunch alone between back-to-back meetings;21.06.26
+TXN-1134;Junior;Marketing;Internal / No Client;Cash Withdrawal;211.78;Misc;21.06.26
+TXN-1135;Executive;Finance;Internal / No Client;Staples;350.75;Office chair + monitor arm bundle, single receipt;03.06.26
+TXN-1136;Executive;Engineering;BlueWave Logistics;DB Bahn;459.19;"3-day onsite client engagement; covers flights and 2 nights hotel, meals billed separately";01.06.26
+TXN-1137;Junior;HR;BlueWave Logistics;Sixt Rent a Car;248.19;Cab fare - rainy day, client site;12.06.26
+TXN-1138;Director;Engineering;Internal / No Client;Cafe Einstein;23.40;Working lunch alone between back-to-back meetings;05.06.26
+TXN-1139;Senior;IT;Meridian Health Systems;Cafe Einstein;208.60;Coffee/meal with client contact (4 people) following a successful sprint demo;21.06.26
+TXN-1140;Manager;Engineering;Kestrel Finance Partners;GitHub;294.17;Software subscription - design/collaboration tool, monthly seat renewal;20.06.26
+TXN-1141;Executive;Engineering;Meridian Health Systems;Zoom;125.31;Software subscription - annual license renewal for the department;07.06.26
+TXN-1142;Manager;Sales;Internal / No Client;Cafe Einstein;18.76;Working lunch alone between back-to-back meetings;17.06.26
+TXN-1143;Junior;Finance;Internal / No Client;Local Bakery;79.01;Team lunch (1 person, no guests) to debrief after sprint retro;14.06.26
+TXN-1144;Executive;Operations;Internal / No Client;Urban Sports Club;96.18;Wellness subscription;10.06.26
+TXN-1145;Manager;Engineering;Internal / No Client;MediaMarkt;425.00;Ergonomic chair and monitor stand;08.06.26
+TXN-1146;Senior;Marketing;Nova Retail GmbH;Cash Withdrawal;442.28;Trip cost;05.06.26
+TXN-1147;Director;Operations;Internal / No Client;MediaMarkt;204.88;Monitor for hybrid home/office setup;13.06.26
+TXN-1148;Junior;Finance;Atlas Capture;GitHub;166.56;Software subscription - annual license renewal for the department;21.06.26
+TXN-1149;Manager;Marketing;BlueWave Logistics;Lufthansa;38.20;"2-day onsite client engagement; covers flights and 1 night hotel, meals billed separately";13.06.26
+TXN-1150;Senior;Finance;Internal / No Client;Local Bakery;Sep 92;Snacks for office during all-hands meeting (approx 12 people);30.06.26
+TXN-1151;Junior;Marketing;Internal / No Client;Hilton Restaurant;190.00;Team dinner (2 people) after closing out the sprint;10.06.26
+TXN-1152;Manager;Marketing;Kestrel Finance Partners;DB Bahn;19.90;"5-day onsite client engagement; covers flights and 4 nights hotel, meals billed separately";02.06.26
+TXN-1153;Junior;HR;Internal / No Client;Starbucks;91.76;Meeting;27.06.26
+TXN-1154;Manager;Sales;Internal / No Client;Staples;448.95;Printer paper and toner for the office;02.06.26
+TXN-1155;Director;Operations;Atlas Capture;Starbucks;280.35;Coffee/meal with client contact 5 of us following a successful sprint demo;09.06.26
+TXN-1156;Junior;Marketing;Internal / No Client;Büro König;86.43;Printer paper and toner for the office;28.06.26
+TXN-1157;Director;IT;Internal / No Client;Vapiano;39.08;Working lunch alone between back-to-back meetings;29.06.26
+TXN-1158;Senior;Operations;BlueWave Logistics;Local Shop;40.28;Parking fee during client site visit;29.06.26
+TXN-1159;Junior;IT;Meridian Health Systems;Uber;291.82;Train ticket for 1-day client site visit;12.06.26
+TXN-1160;Senior;Sales;BlueWave Logistics;PayPal Transfer;163.21;SIM card / local data plan for business trip;09.06.26
+TXN-1161;Manager;Engineering;Internal / No Client;IKEA;299.99;Bulk office furniture order for the floor;13.06.26
+TXN-1162;Executive;Sales;Internal / No Client;Amazon;266.83;Misc;22.06.26
+TXN-1163;Executive;HR;Meridian Health Systems;Slack;67.92;Software subscription - design/collaboration tool, monthly seat renewal;02.06.26
+TXN-1164;Senior;Finance;Internal / No Client;IKEA;228.65;Ergonomic chair, approved by manager for back issues;12.06.26
+TXN-1165;Executive;Sales;Internal / No Client;MediaMarkt;236.80;Monitor for hybrid home/office setup;25.06.26
+TXN-1166;Junior;HR;Nova Retail GmbH;PayPal Transfer;171.63;Small hardware adapter needed for client presentation;29.06.26
+TXN-1167;Director;IT;Internal / No Client;Staples;210.41;Printer paper and toner for the office;01.06.26
+TXN-1168;Manager;Operations;Internal / No Client;Staples;460.50;New standing desk for the desk setup;24.06.26
+TXN-1169;Executive;Operations;Internal / No Client;Local Pub Berlin;91.77;Team dinner team of 3 after project close;01.06.26
+TXN-1170;Executive;Finance;Internal / No Client;Chutnify Neukölln;18.86;Solo lunch while working late on month-end close;12.06.26
+TXN-1171;Manager;Engineering;Nova Retail GmbH;Local Shop;136.51;Parking fee during client site visit;28.06.26
+TXN-1172;Manager;Operations;Internal / No Client;Cafe Einstein;39.26;Breakfast meeting with manager to review weekly priorities (2 people);10.06.26
+TXN-1173;Senior;HR;Internal / No Client;DB Bahn;484.13;"4-day travel for internal training in Frankfurt; includes train, 3 nights hotel";29.06.26
+TXN-1174;Director;Sales;Internal / No Client;The Grand Bar;154.37;Team dinner team of 4 after project close;25.06.26
+TXN-1175;Executive;Operations;Internal / No Client;Local Pub Berlin;1109.55;Team party for Operations - (39 people), half-year team celebration;18.06.26
+TXN-1176;Senior;Finance;Internal / No Client;Büro König;337.08;Replacement keyboard and mouse for desk setup;07.06.26
+TXN-1177;Senior;Marketing;Nova Retail GmbH;Cafe Einstein;427.85;Coffee/meal with client contact (5 people) to walk through Q3 deliverables;15.06.26
+TXN-1178;Junior;Finance;Internal / No Client;The Grand Bar (private room);490.77;Organized team party team of 19, project wrap-up party;12.06.26
+TXN-1179;Junior;Engineering;Nova Retail GmbH;DB Bahn;126.03;Cab to client office and back;07.06.26
+TXN-1180;Executive;Engineering;Internal / No Client;Kestrel & Vine;141.22;Dinner;26.06.26
+TXN-1181;Executive;Operations;Internal / No Client;Five Guys;Nov 21;Snacks for office during all-hands meeting (approx 12 people);15.06.26
+TXN-1182;Executive;Operations;Internal / No Client;Five Guys;41.87;Breakfast meeting with manager to review weekly priorities (2 people);20.06.26
+TXN-1183;Senior;Sales;Internal / No Client;Vapiano;30.83;Breakfast meeting with manager to review weekly priorities (2 people);08.06.26
+TXN-1184;Manager;Engineering;Internal / No Client;Vapiano;14.18;Solo lunch while working late on month-end close;23.06.26
+TXN-1185;Executive;HR;Internal / No Client;MediaMarkt;410.20;Ergonomic chair and monitor stand;03.06.26
+TXN-1186;Executive;IT;Internal / No Client;Kestrel & Vine;251.61;Group dinner (3 people);20.06.26
+TXN-1187;Director;Sales;Internal / No Client;Local Pub Berlin;163.46;Team dinner team of 5 after project close;05.06.26
+TXN-1188;Junior;Engineering;Internal / No Client;MediaMarkt;480.00;Bulk office furniture order for the floor;04.06.26
+TXN-1189;Manager;Sales;Kestrel Finance Partners;Lufthansa;31.40;"4-day onsite client engagement; covers flights and 3 nights hotel, meals billed separately";11.06.26
+TXN-1190;Director;Engineering;Internal / No Client;Cafe Einstein;49.03;Team lunch solo catch-up, no client involved;20.06.26
+TXN-1191;Director;Engineering;Internal / No Client;Officeworks;425.21;Printer paper and toner for the office;07.06.26
+TXN-1192;Director;Finance;Internal / No Client;Vapiano (private room);2011.35;Team party for Finance - (55 people), Q2 close celebration;16.06.26
+TXN-1193;Manager;Operations;Internal / No Client;Amazon;218.05;Monitor for hybrid home/office setup;21.06.26
+TXN-1194;Junior;Finance;Atlas Capture;Chutnify Neukölln;247.50;Coffee/meal with client contact 3 of us to review project milestones;02.06.26
+TXN-1195;Senior;HR;Internal / No Client;Amazon;400.00;general purchase;13.06.26
+TXN-1196;Manager;Marketing;Meridian Health Systems;Sixt Rent a Car;24.60;Expense - receipt attached;28.06.26
+TXN-1197;Manager;Sales;Atlas Capture;Hilton Restaurant;340.08;Dinner with client team team of 3 to finalize Q3 proposal;06.06.26
+TXN-1198;Manager;Finance;Internal / No Client;IKEA;391.55;Printer paper and toner for the office;17.06.26
+TXN-1199;Director;IT;Internal / No Client;Villa Kessler;181.06;Dinner - 2 people;12.06.26
+TXN-1200;Director;Engineering;Internal / No Client;Büro König;350.75;Office chair + monitor arm bundle, single receipt;21.06.26

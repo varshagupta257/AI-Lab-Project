@@ -1,0 +1,201 @@
+Transaction_ID,Date,Amount,ZeroShot_Category,ZeroShot_Violation,ZeroShot_Summary,FewShot_Category,FewShot_Violation,FewShot_Summary
+TXN-1001,30.06.26,218.58,Software,None,Monthly software subscription for collaboration purposes,Software,None,Monthly software subscription for design collaboration
+TXN-1002,23.06.26,83.89,Software,None,Monthly software subscription for collaboration purposes,Software,None,Monthly software subscription for collaboration
+TXN-1003,10.06.26,380.00,Meals,Low,Unnecessary expense for client dinner gathering,Meals,None,Business dinner with client team finalized
+TXN-1004,24.06.26,300.00,Entertainment,Low,Unspecified general purchase does not justify expense,Office Supplies,None,Standard office supply purchase made
+TXN-1005,08.06.26,314.16,Meals,None,Team dinner for two employees,Meals,None,Team dinner for a small team meeting
+TXN-1006,15.06.26,276.77,Travel,None,Client Engagement Expenses Covered by Airfare and Accommodation,Travel,None,Standard client engagement travel costs
+TXN-1007,28.06.26,Aug 50,Travel,None,Unnecessary expense for hotel WiFi services,Travel,None,Business travel internet access fee
+TXN-1008,18.06.26,10. Oct,Travel,None,Unnecessary expense for hotel WiFi services,Travel,None,Standard client site visit WiFi fee
+TXN-1009,07.06.26,12.00,Travel,None,Unnecessary airport WiFi charge during business travel,Travel,None,Reasonable airport WiFi for business travel
+TXN-1010,08.06.26,57.99,Meals,None,Business meeting with client and team members,Meals,None,Business meeting with client contact group
+TXN-1011,06.06.26,119.55,Meals,None,Team lunch for employees only,Meals,None,Standard corporate team lunch meeting
+TXN-1012,28.06.26,102.95,Meals,None,Client meeting with multiple attendees included meal,Meals,Low,Business meeting with client group
+TXN-1013,20.06.26,631.24,Meals,None,Team dinner after project completion,Meals,High,Excessive team dinner cost without context
+TXN-1014,22.06.26,107.04,Software,None,Monthly software subscription for collaboration purposes,Software,None,Standard monthly software subscription renewal
+TXN-1015,11.06.26,97.02,Meals,None,Client meeting with multiple attendees included meal,Meals,Low,Business meeting with client review expenses
+TXN-1016,09.06.26,602.72,Meals,Low,Unnecessary expense for client dinner gathering,Meals,None,Business dinner with client team finalized proposal
+TXN-1017,24.06.26,35.00,Travel,None,Client Engagement Expenses Covered by Separate Invoices,Travel,None,Standard business travel expenses covered
+TXN-1018,13.06.26,1936.00,Entertainment,Low,Team party expense exceeds reasonable limits slightly,Entertainment,High,Excessive team party cost without business context
+TXN-1019,06.06.26,93.95,Meals,Low,Unapproved meal expense for project discussion,Travel,None,Business project discussion meeting expenses
+TXN-1020,26.06.26,81.11,Meals,None,Debriefing team lunch for one employee only,Meals,None,Single-person team lunch meeting
+TXN-1021,07.06.26,272.78,Software,None,Client project software subscription expense,Software,None,Client project software delivery expense
+TXN-1022,27.06.26,60.43,Entertainment,None,Unapproved personal wellness expenditure,Entertainment,Unknown,Personal gym membership for stress relief purposes
+TXN-1023,19.06.26,236.38,Travel,None,Client Engagement Expenses Covered by Airfare and Accommodation,Travel,None,Standard client engagement travel expenses
+TXN-1024,16.06.26,144.84,Meals,None,Team lunch for planning purposes only,Meals,None,Team lunch planning meeting expenses
+TXN-1025,28.06.26,87.04,Software,None,Client project software subscription expense,Software,None,Client project software delivery expense
+TXN-1026,24.06.26,1290.56,Entertainment,Low,Company-sponsored event for team celebration purposes only,Entertainment,High,Excessive team party with unclear purpose
+TXN-1027,05.06.26,174.25,Meals,None,Team dinner for three employees post-project,Meals,None,Team dinner for project team members
+TXN-1028,20.06.26,91.92,Software,None,Unapproved wellness software subscription,Software,None,Standard wellness subscription for employee benefit
+TXN-1029,15.06.26,37.88,Meals,None,Client meeting over coffee and meal reviewed milestones,Meals,None,Business meeting with client over coffee
+TXN-1030,29.06.26,68.83,Software,None,Annual software license renewal for department,Software,None,Annual software subscription for department
+TXN-1031,06.06.26,243.80,Meals,None,Business meeting with client over coffee and meal,Meals,None,Business meeting with client over coffee
+TXN-1032,24.06.26,14.20,Travel,None,Unnecessary airport WiFi charge during business travel,Travel,None,Reasonable airport WiFi for business travel
+TXN-1033,30.06.26,188.61,Office Supplies,None,Home office equipment purchase justification appears reasonable.,Office Supplies,None,Hybrid home office equipment purchase
+TXN-1034,21.06.26,142.77,Meals,Low,Unapproved meal expense during meeting,Meals,None,Standard corporate meeting expenses
+TXN-1035,29.06.26,95.95,Meals,None,Team dinner after project close is reasonable.,Meals,None,Standard corporate team dinner meeting
+TXN-1036,25.06.26,129.10,Meals,None,Client meeting with multiple attendees included meal,Meals,None,Meal with clients after successful demo meeting
+TXN-1037,15.06.26,222.80,Office Supplies,None,Home office equipment monitoring expenses,Office Supplies,None,Hybrid home office equipment purchase
+TXN-1038,03.06.26,33.02,Meals,None,Late work hours warrant a solo meal expense,Meals,None,Standard solo late-night work lunch
+TXN-1039,19.06.26,14.99,Travel,None,Business use of hotel WiFi services,Travel,None,Business travel WiFi charges are acceptable
+TXN-1040,14.06.26,213.04,Meals,None,Team dinner after project completion,Meals,Medium,Team dinner after sprint closure meeting
+TXN-1041,14.06.26,27.18,Office Supplies,None,Hardware adapter purchase for client presentation,Software,None,Client presentation equipment adapter purchase
+TXN-1042,13.06.26,1449.30,Entertainment,Low,Unapproved large team gathering expenses incurred,Entertainment,High,Excessive team party cost without justification
+TXN-1043,19.06.26,199.99,Travel,Low,Late cab fare for client meeting delay,Travel,None,Standard business cab ride expense
+TXN-1044,26.06.26,210.28,Meals,None,Business dinner for client meeting purposes only,Meals,Low,Business dinner with client team meeting
+TXN-1045,06.06.26,1743.44,Entertainment,Low,Team party with excessive guest count,Entertainment,High,Excessive team party cost without business context
+TXN-1046,25.06.26,16.26,Office Supplies,None,Unnecessary parking fee for office visit,Office Supplies,None,Standard parking fee for office use
+TXN-1047,19.06.26,Sep 99,Entertainment,None,Unnecessary expense for conference venue services,Travel,Low,Standard conference venue WiFi day pass
+TXN-1048,26.06.26,117.94,Meals,Low,Dinner for two guests appears excessive.,Meals,None,Business dinner with two guests attended
+TXN-1049,19.06.26,Jun 50,Travel,None,Client project trip expenses within budget,Travel,None,Client project trip with standard hotel WiFi
+TXN-1050,08.06.26,580.52,Meals,None,Team dinner for 4 employees,Meals,None,Team dinner for team members
+TXN-1051,23.06.26,247.09,Entertainment,Low,Unspecified general purchase does not justify expense.,Office Supplies,Low,Unclear general office purchase details
+TXN-1052,05.06.26,Nov 25,Travel,None,Unnecessary airport WiFi expense for client visit,Travel,None,Airport WiFi for business client meeting
+TXN-1053,28.06.26,541.41,Travel,None,Internal training expenses within budget range.,Travel,None,Standard corporate internal training trip
+TXN-1054,24.06.26,Oct 99,Meals,None,Breakfast meeting with manager for priority review,Meals,None,Standard corporate breakfast meeting with manager
+TXN-1055,17.06.26,179.68,Meals,None,"Client meeting with multiple attendees, reasonable expense",Meals,None,Standard client meeting coffee expense
+TXN-1056,30.06.26,1737.68,Entertainment,Low,Excessive team party expenses reported,Entertainment,None,Company-sponsored team social gathering
+TXN-1057,06.06.26,613.97,Travel,None,Client engagement expenses within budget range,Travel,None,Standard client engagement travel expenses
+TXN-1058,09.06.26,13.80,Travel,None,Business trip expenses are reasonable and justified.,Travel,None,Standard overnight business trip WiFi
+TXN-1059,04.06.26,264.91,Entertainment,Low,Unspecified general purchase does not justify expense.,Office Supplies,None,Unclear general office purchase details
+TXN-1060,20.06.26,251.60,Office Supplies,None,Desk equipment replacement costs within budget,Office Supplies,None,Standard office supply replacement expense
+TXN-1061,10.06.26,205.23,Meals,None,Business meeting with client and team members,Meals,None,Business meal with client contact group
+TXN-1062,28.06.26,284.24,Software,None,Annual software license renewal for department,Software,None,Annual software subscription for department
+TXN-1063,02.06.26,480.00,Office Supplies,None,Bulk office furniture purchase justification appears reasonable.,Office Supplies,None,Bulk office furniture purchase for company
+TXN-1064,10.06.26,1403.10,Entertainment,Low,Team party expense exceeds reasonable limits slightly,Entertainment,High,Excessive team party with personal element
+TXN-1065,05.06.26,525.96,Meals,Low,Unnecessary expense for client dinner gathering,Meals,None,Business dinner with client team finalized proposal
+TXN-1066,18.06.26,371.02,Travel,None,Internal training expenses within budget range.,Travel,None,2-day internal training in Frankfurt
+TXN-1067,28.06.26,19.63,Entertainment,Low,Unapproved snacks for employee gathering,Office Supplies,None,Reasonable office supplies for all-hands meeting
+TXN-1068,09.06.26,48.78,Entertainment,None,Unapproved wellness service subscription,Software,None,Standard wellness subscription for employee benefit
+TXN-1069,20.06.26,137.20,Meals,Low,Unapproved meal during work session,Unknown,Medium,Inadequate work session justification details
+TXN-1070,07.06.26,248.21,Entertainment,Low,Unspecified general purchase does not justify expense.,Office Supplies,None,Unclear general office purchase details
+TXN-1071,23.06.26,117.20,Entertainment,Low,Unapproved personal wellness activity expense,None,High,Personal training session without business purpose
+TXN-1072,11.06.26,249.12,Software,None,Annual software license renewal for department,Software,None,Annual software department license renewal
+TXN-1073,03.06.26,55.56,Software,None,Monthly software subscription for collaboration purposes,Software,None,Standard software subscription renewal process
+TXN-1074,19.06.26,200.00,Entertainment,Low,Unapproved miscellaneous expense incurred,Office Supplies,None,Reasonable office supply expense
+TXN-1075,07.06.26,253.58,Entertainment,Low,Unspecified miscellaneous entertainment expenses,Entertainment,Unknown,Unclear business purpose for expense
+TXN-1076,20.06.26,Jul 40,Entertainment,None,Remote work Wi-Fi hotspot usage,Software,Low,Remote work data access and Wi-Fi
+TXN-1077,25.06.26,591.96,Travel,None,Internal training expenses within budget range.,Travel,None,Internal training trip to Frankfurt
+TXN-1078,26.06.26,200.00,Entertainment,Low,Unjustified expense without clear business purpose,Entertainment,Low,Incomplete expense justification provided
+TXN-1079,21.06.26,125.80,Travel,None,Unnecessary SIM card purchase for business trip,Travel,None,Business trip SIM card and data plan
+TXN-1080,23.06.26,180.44,Travel,None,Client site visit train ticket expense,Travel,Low,Standard business client site visit
+TXN-1081,28.06.26,14.48,Meals,None,Unapproved meal during work hours only,Meals,None,Standard corporate working lunch meeting
+TXN-1082,22.06.26,319.12,Meals,Low,Informal meeting expenses exceed reasonable limits slightly,Meals,None,Successful sprint demo client meal engagement
+TXN-1083,17.06.26,73.11,Software,None,Annual software license renewal for department,Software,None,Annual software department license renewal
+TXN-1084,04.06.26,69.97,Software,None,Annual software license renewal for department,Software,None,Annual software subscription for department renewal
+TXN-1085,15.06.26,37.73,Meals,None,Unapproved meal during work hours only,Meals,None,Standard working lunch between meetings
+TXN-1086,05.06.26,507.62,Travel,None,Client engagement expenses within budget range,Travel,None,Standard client engagement travel and accommodation
+TXN-1087,07.06.26,28.50,Travel,None,Client Engagement Expenses Covered by Flights and Meals,Travel,None,Standard business travel with separate meal costs
+TXN-1088,20.06.26,191.58,Meals,None,Team lunch for welcoming new team member,Meals,None,Standard corporate welcome team lunch meeting
+TXN-1089,20.06.26,122.31,Meals,None,Dinner expense within reasonable company limits.,Meals,Low,Business dinner with unclear purpose
+TXN-1090,29.06.26,140.83,Office Supplies,None,Hardware adapter purchase for client presentation,Software,Low,Reasonable software adapter cost for client presentation
+TXN-1091,02.06.26,108.85,Travel,Low,Late arrival justified by cab fare expense,Travel,None,Business cab ride to client meeting
+TXN-1092,28.06.26,Sep 34,Meals,None,Unapproved meal during work hours only,Meals,None,Standard corporate working lunch meeting
+TXN-1093,28.06.26,22.75,Meals,None,Business lunch expense within reasonable limits,Office Supplies,None,Office supply expense with attached receipt details
+TXN-1094,01.06.26,161.37,Travel,None,Unnecessary SIM card purchase for business trip,Travel,None,Business trip local data plan purchase
+TXN-1095,05.06.26,518.73,Travel,None,Onsite client engagement expenses are reasonable.,Travel,None,Standard client engagement travel expenses
+TXN-1096,07.06.26,250.00,Entertainment,Low,Unjustified expense without clear business purpose,Office Supplies,Minor,Unclear office expense without further details
+TXN-1097,15.06.26,254.64,Software,None,Annual software license renewal for department,Software,None,Annual software subscription for department
+TXN-1098,20.06.26,1768.32,Entertainment,Low,Unapproved team gathering exceeds budgetary limits.,Entertainment,High,Excessive team party for finance department
+TXN-1099,05.06.26,86.52,Office Supplies,None,Contract document postage is reasonable expense,Office Supplies,None,Reasonable postage for contract documents
+TXN-1100,21.06.26,169.44,Meals,None,Dinner for two employees is reasonable expense,Meals,None,Business dinner for two people
+TXN-1101,22.06.26,249.21,Travel,None,Client Engagement Expenses Covered by Airfare and Accommodation,Travel,None,Standard client engagement travel costs
+TXN-1102,18.06.26,294.71,Software,None,Monthly software subscription for collaboration purposes,Software,None,Monthly design collaboration tool subscription
+TXN-1103,27.06.26,480.76,Entertainment,Low,Team party expenses exceed reasonable limits slightly,Entertainment,Medium,Casual team party with moderate expense
+TXN-1104,14.06.26,95.00,Meals,None,Business dinner with client team finalized proposal,Meals,None,Business dinner with client to finalize proposal
+TXN-1105,05.06.26,442.28,Travel,Low,Trip costs exceed reasonable expense limits slightly,Travel,High,Unclear business trip expense
+TXN-1106,05.06.26,95.27,Office Supplies,None,Desk equipment replacement costs within budget,Office Supplies,None,Standard office supply replacement expense
+TXN-1107,25.06.26,33.60,Meals,None,Late work hours warrant a solo meal expense,Meals,None,Reasonable solo lunch for late work hours
+TXN-1108,20.06.26,1684.31,Entertainment,Low,Unapproved team gathering exceeds reasonable expense limits.,Entertainment,High,Excessive team party with unclear business value
+TXN-1109,12.06.26,34.56,Meals,Low,Breakfast meeting with manager for priority discussion,Meals,None,Business breakfast meeting with manager
+TXN-1110,28.06.26,97.82,Meals,Low,Inconclusive justification for meal expense,Travel,Low,Project discussion meeting expenses incurred
+TXN-1111,17.06.26,51.56,Travel,None,Unnecessary SIM card purchase for business trip,Travel,None,Business trip local data plan purchase
+TXN-1112,29.06.26,324.12,Meals,None,Client dinner for proposal discussion purposes only,Meals,Low,Business dinner with client team meeting
+TXN-1113,22.06.26,156.52,Software,None,Client project software subscription expense,Software,None,Client project software delivery expense
+TXN-1114,27.06.26,81.84,Entertainment,Low,Unapproved personal wellness activity expense,None,High,Personal training session without business purpose
+TXN-1115,22.06.26,143.87,Software,None,Annual software license renewal for department,Software,None,Annual software department license renewal
+TXN-1116,06.06.26,21.80,Travel,None,Local data plan for business purposes,Travel,None,Business trip SIM card and data plan
+TXN-1117,09.06.26,270.80,Meals,None,Team meeting at a reasonable cost,Meals,None,Standard corporate team lunch meeting
+TXN-1118,02.06.26,296.16,Office Supplies,None,Desk equipment replacement costs within budget,Office Supplies,None,Standard office supply replacement expense
+TXN-1119,08.06.26,59.16,Meals,None,Team lunch for new team member introduction,Meals,None,Standard welcome team lunch meeting
+TXN-1120,14.06.26,97.56,Office Supplies,None,Home office equipment monitoring expenses,Office Supplies,None,Hybrid home office equipment purchase
+TXN-1121,06.06.26,645.14,Travel,None,Internal training expenses within budget range.,Travel,None,5-day internal training in Frankfurt
+TXN-1122,23.06.26,82.91,Meals,Low,Informal meeting with client over coffee expenses,Meals,None,Business meeting with client over coffee
+TXN-1123,25.06.26,148.52,Travel,None,Client engagement expenses within budget range,Travel,None,Standard client engagement travel expenses
+TXN-1124,08.06.26,508.25,Travel,None,Onsite client engagement expenses are reasonable.,Travel,None,Standard client engagement travel expenses
+TXN-1125,13.06.26,345.96,Meals,None,Business meeting with client and colleagues,Meals,None,Business meal with client review meeting attendees
+TXN-1126,05.06.26,125.68,Office Supplies,None,Office supplies purchased within budget.,Office Supplies,None,Standard office supply purchase
+TXN-1127,12.06.26,131.64,Software,None,Internal tool usage expense,Software,None,Internal team software subscription
+TXN-1128,10.06.26,292.60,Meals,None,"Client meeting with multiple attendees, reasonable expense",Meals,None,Business meal with client contact team
+TXN-1129,24.06.26,14. Dec,Meals,Low,Breakfast meeting with manager for priority review,Meals,None,Business breakfast meeting with manager
+TXN-1130,19.06.26,412.43,Travel,None,Client engagement expenses within budget range,Travel,None,Standard client engagement travel and accommodation
+TXN-1131,06.06.26,204.35,Office Supplies,None,Office supplies purchased within budget.,Office Supplies,None,Standard office supply purchase
+TXN-1132,26.06.26,1303.55,Entertainment,Low,Team gathering for operations staff and new hires,Entertainment,High,Excessive company-sponsored team party
+TXN-1133,21.06.26,31.18,Meals,None,Unapproved meal during work hours only,Meals,None,Standard working lunch between meetings
+TXN-1134,21.06.26,211.78,Entertainment,Low,Miscellaneous expense not clearly justified.,Office Supplies,None,Unspecified miscellaneous office expense
+TXN-1135,03.06.26,350.75,Office Supplies,None,Unusual office equipment purchase amount,Office Supplies,None,Standard office supply bundle purchase
+TXN-1136,01.06.26,459.19,Travel,None,Client engagement expenses within budget range,Travel,None,Standard client engagement travel and accommodation
+TXN-1137,12.06.26,248.19,Travel,None,Client visit under normal circumstances.,Travel,None,Business client site transportation on rainy day
+TXN-1138,05.06.26,23.40,Meals,None,Unapproved meal during work hours only,Meals,None,Single-person working lunch meeting
+TXN-1139,21.06.26,208.60,Meals,None,Client meeting with meal and coffee expenses,Meals,None,Successful sprint demo client meal engagement
+TXN-1140,20.06.26,294.17,Software,None,Monthly software subscription for collaboration purposes,Software,None,Monthly design collaboration tool subscription
+TXN-1141,07.06.26,125.31,Software,None,Annual software license renewal for department,Software,None,Annual software department license renewal
+TXN-1142,17.06.26,18.76,Meals,None,Unapproved meal during work hours only,Meals,None,Standard working lunch expense
+TXN-1143,14.06.26,79.01,Meals,None,Debriefing team lunch for one employee only,Meals,None,Single-person team lunch meeting
+TXN-1144,10.06.26,96.18,Software,None,Unapproved wellness software subscription,Software,None,Company wellness subscription service
+TXN-1145,08.06.26,425.00,Office Supplies,None,Ergonomic furniture purchase is reasonable expense,Office Supplies,None,Standard office equipment purchase
+TXN-1146,05.06.26,442.28,Travel,Low,Trip costs exceed reasonable expense limits slightly,Travel,High,Unclear business trip expense
+TXN-1147,13.06.26,204.88,Office Supplies,None,Home office equipment monitoring expenses,Office Supplies,None,Hybrid home office equipment purchase
+TXN-1148,21.06.26,166.56,Software,None,Annual software license renewal for department,Software,None,Annual software subscription for department
+TXN-1149,13.06.26,38.20,Travel,None,Client Engagement Expenses Covered by Separate Invoices,Travel,Low,Client engagement travel costs partially unclear
+TXN-1150,30.06.26,Sep 92,Entertainment,Low,Unapproved snacks for employee gathering,Office Supplies,None,Reasonable office supplies for team gathering
+TXN-1151,10.06.26,190.00,Meals,None,Team dinner after project completion,Meals,None,Team dinner after sprint closure meeting
+TXN-1152,02.06.26,19.90,Travel,None,Client engagement expenses within budget range,Travel,None,Standard business client engagement travel costs
+TXN-1153,27.06.26,91.76,Meals,Low,Unapproved meal expense during meeting,Meals,None,Standard corporate meeting expense
+TXN-1154,02.06.26,448.95,Office Supplies,None,Office supplies within budget range.,Office Supplies,None,Standard office supply purchase
+TXN-1155,09.06.26,280.35,Meals,None,Business meeting with client and team members,Meals,None,Standard client meeting coffee expense
+TXN-1156,28.06.26,86.43,Office Supplies,None,Office supplies purchased within budget.,Office Supplies,None,Standard office supply purchase
+TXN-1157,29.06.26,39.08,Meals,None,Unapproved meal during work hours only,Meals,None,Standard working lunch between meetings
+TXN-1158,29.06.26,40.28,Travel,None,Unnecessary parking fee for client site visit,Travel,None,Standard client site parking fee expense
+TXN-1159,12.06.26,291.82,Travel,None,Client site visit train ticket expense,Travel,Low,Standard business client site visit
+TXN-1160,09.06.26,163.21,Travel,None,Unnecessary SIM card purchase for business trip,Travel,None,Business trip SIM card and data plan
+TXN-1161,13.06.26,299.99,Office Supplies,None,Bulk office furniture purchase justification appears reasonable.,Office Supplies,None,Bulk office furniture purchase for company floor
+TXN-1162,22.06.26,266.83,Entertainment,Low,Miscellaneous expense not clearly justified.,Office Supplies,None,Unspecified miscellaneous office supplies purchase
+TXN-1163,02.06.26,67.92,Software,None,Monthly software subscription for collaboration purposes,Software,None,Standard software subscription renewal process
+TXN-1164,12.06.26,228.65,Office Supplies,None,Ergonomic chair justified for health reasons,Office Supplies,None,Ergonomic chair purchase for employee health
+TXN-1165,25.06.26,236.80,Office Supplies,None,Home office equipment monitoring expenses,Office Supplies,None,Hybrid home office equipment setup costs
+TXN-1166,29.06.26,171.63,Office Supplies,None,Hardware adapter purchase for client presentation,Office Supplies,None,Reasonable office supply expense
+TXN-1167,01.06.26,210.41,Office Supplies,None,Office supplies purchased within budget.,Office Supplies,None,Standard office supply purchase
+TXN-1168,24.06.26,460.50,Office Supplies,None,Desk setup expense does not match category,Office Supplies,None,Standard office desk setup expense
+TXN-1169,01.06.26,91.77,Meals,None,Team dinner after project completion,Meals,None,Team dinner after successful project completion
+TXN-1170,12.06.26,18.86,Meals,None,Late work hours warrant a solo meal expense,Meals,None,Personal lunch during late work hours
+TXN-1171,28.06.26,136.51,Travel,None,Unnecessary parking fee during client visit,Travel,None,Standard client site parking fee
+TXN-1172,10.06.26,39.26,Meals,Low,Breakfast meeting with manager for priority discussion,Meals,None,Business breakfast meeting with manager
+TXN-1173,29.06.26,484.13,Travel,None,Internal training expenses within budget range.,Travel,None,Standard business travel for internal training
+TXN-1174,25.06.26,154.37,Meals,None,Team dinner after project completion,Meals,None,Team dinner after project completion meeting
+TXN-1175,18.06.26,1109.55,Entertainment,Low,Team celebration exceeds reasonable expense limits slightly,Entertainment,None,Team celebration for operations team members
+TXN-1176,07.06.26,337.08,Office Supplies,None,Desk equipment replacement costs within budget,Office Supplies,None,Standard office supply replacement expense
+TXN-1177,15.06.26,427.85,Meals,Low,Informal meeting with clients over coffee,Meals,Low,Business meeting with client and colleagues
+TXN-1178,12.06.26,490.77,Entertainment,Low,Company-sponsored team gathering exceeds reasonable limits.,Entertainment,High,Excessive team party cost without business context
+TXN-1179,07.06.26,126.03,Travel,None,Reasonable cab fare for business trip,Travel,None,Standard business cab fare to client office
+TXN-1180,26.06.26,141.22,Meals,None,Dinner expense within reasonable company limits.,Meals,Low,Business dinner with limited context provided
+TXN-1181,15.06.26,Nov 21,Entertainment,Low,Unapproved snacks for employee gathering,Office Supplies,None,Standard office supplies for meeting
+TXN-1182,20.06.26,41.87,Meals,Low,Breakfast meeting with manager for priority review,Meals,None,Business breakfast meeting with manager
+TXN-1183,08.06.26,30.83,Meals,Low,Breakfast meeting with manager for priority review,Meals,None,Business breakfast meeting with manager
+TXN-1184,23.06.26,14.18,Meals,None,Late work hours warrant a solo meal expense,Meals,None,Reasonable solo late-night meal expense
+TXN-1185,03.06.26,410.20,Office Supplies,None,Ergonomic furniture purchase is reasonable expense,Office Supplies,None,Standard office equipment purchase
+TXN-1186,20.06.26,251.61,Meals,Low,Group dinner expense exceeds reasonable limit slightly,Meals,None,Standard corporate group dinner meeting
+TXN-1187,05.06.26,163.46,Meals,None,Team dinner after project completion,Meals,None,Reasonable team dinner after project completion
+TXN-1188,04.06.26,480.00,Office Supplies,None,Bulk office furniture purchase justification appears reasonable.,Office Supplies,None,Bulk office furniture purchase for company
+TXN-1189,11.06.26,31.40,Travel,None,Client engagement expenses within budget range,Travel,None,Standard corporate client engagement expenses
+TXN-1190,20.06.26,49.03,Meals,Low,Unapproved personal meal expense,Meals,None,Standard corporate solo team lunch meeting
+TXN-1191,07.06.26,425.21,Office Supplies,None,Office supplies purchased within budget.,Office Supplies,None,Standard office supply purchase
+TXN-1192,16.06.26,2011.35,Entertainment,Low,Team gathering for Q2 close celebration,Entertainment,High,Excessive team party cost without business context
+TXN-1193,21.06.26,218.05,Office Supplies,None,Home office equipment purchase justification appears reasonable.,Office Supplies,None,Reasonable office equipment cost
+TXN-1194,02.06.26,247.50,Meals,None,Business meeting with client over coffee and meal,Meals,None,Business meeting coffee and meal expenses
+TXN-1195,13.06.26,400.00,Entertainment,Low,Unspecified general purchase does not justify expense,Office Supplies,None,Unclear general office purchase details
+TXN-1196,28.06.26,24.60,Meals,None,Business lunch expense within reasonable limits,Office Supplies,None,Office supply expense with attached receipt details
+TXN-1197,06.06.26,340.08,Meals,Low,Unnecessary expense for client dinner meeting,Meals,None,Business dinner with client team finalized proposal
+TXN-1198,17.06.26,391.55,Office Supplies,None,Office supplies purchased within budget.,Office Supplies,None,Standard office supply purchase
+TXN-1199,12.06.26,181.06,Meals,Low,Dinner for two employees is reasonable expense,Meals,Low,Dinner for two without business context
+TXN-1200,21.06.26,350.75,Office Supplies,None,Unusual office equipment purchase amount,Office Supplies,None,Standard office supply bundle purchase
