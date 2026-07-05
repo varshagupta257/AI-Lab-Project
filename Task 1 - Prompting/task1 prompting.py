@@ -7,8 +7,8 @@ import os
 # ==========================================
 # Configuration & Absolute Paths
 # ==========================================
-INPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/Project/data/expense_transactions-2.csv'
-OUTPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/Project/Audited_Expenses_Output.csv'
+INPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/Project/Task 1 - Prompting/data/expense_transactions-2.csv'
+OUTPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/Project/Task 1 - Prompting/Audited_Expenses_Output.csv'
 OLLAMA_API_URL = 'http://localhost:11434/api/generate'
 MODEL_NAME = 'llama3.2:3b'
 
@@ -17,7 +17,7 @@ MODEL_NAME = 'llama3.2:3b'
 # ==========================================
 ZERO_SHOT_PROMPT = (
     "You are a corporate expense auditor. Read this transaction and perform three tasks:\n"
-    "1. Categorize the expense. Choose ONLY from: [Meals, Travel, Software, Office Supplies, Entertainment].\n"
+    "1. Categorize the expense. Choose ONLY from: [Meals, Travel, Software, Office Supplies, Entertainment, Miscellaneous].\n"
     "2. Decide the violation level (None, Low, Medium, High) based on whether the amount makes sense for the justification.\n"
     "3. Summarize the justification in a professional phrase that is STRICTLY 5 to 8 words long.\n\n"
     "Output ONLY a valid JSON object with keys: \"Extracted_Category\", \"Violation_Level\", \"Summary\".\n\n"
@@ -30,7 +30,7 @@ ZERO_SHOT_PROMPT = (
 # ==========================================
 FEW_SHOT_COT_PROMPT = (
     "You are a corporate expense auditor. Review the transaction, categorize it into one of the allowed categories "
-    "[Meals, Travel, Software, Office Supplies, Entertainment], think step-by-step to assess compliance, and output a strict JSON format.\n\n"
+    "[Meals, Travel, Software, Office Supplies, Entertainment, Miscellaneous], think step-by-step to assess compliance, and output a strict JSON format.\n\n"
     
     "Example 1 (Normal Expense - None):\n"
     "Amount: 45.00\n"
@@ -88,7 +88,7 @@ FEW_SHOT_COT_PROMPT = (
     "  \"Summary\": \"Excessive dinner cost lacking business context\"\n"
     "}}\n\n"
 
-    "Now evaluate the following transaction fairly using the allowed categories [Meals, Travel, Software, Office Supplies, Entertainment]:\n"
+    "Now evaluate the following transaction fairly using the allowed categories [Meals, Travel, Software, Office Supplies, Entertainment, Miscellaneous]:\n"
     "Amount: {amount}\n"
     "Justification: {justification}\n\n"
     "Ensure your final \"Summary\" string in the JSON is STRICTLY between 5 and 8 words long."
