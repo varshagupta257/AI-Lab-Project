@@ -1,0 +1,105 @@
+transaction ID,Level,RAG Category,RAG violation,RAG Summary
+TXN-1001,Executive,Miscellaneous,None,Executive GitHub transaction within policy limits for
+TXN-1002,Senior,Miscellaneous,None,Senior level employee claim for Notion renewal
+TXN-1003,Manager,Miscellaneous,None,Dinner with client team (4 people) exceeds
+TXN-1004,Manager,Miscellaneous,Medium,Manager's Miscellaneous claim under $500 lacks specific
+TXN-1005,Manager,Miscellaneous,High,"Excessive spending at Partner Restaurant (Cafe Einstein),"
+TXN-1006,Senior,Miscellaneous,None,Senior hotel claim within policy limits for
+TXN-1007,Junior,Software,None,Junior employee claim for hotel WiFi compliant
+TXN-1008,Junior,Miscellaneous,High,Junior employee claimed hotel Wi-Fi as miscellaneous
+TXN-1009,Junior,Miscellaneous,None,Junior-level WiFi claim within policy limits and
+TXN-1010,Manager,Miscellaneous,None,Coffee/meal with client: No specific client or
+TXN-1011,Director,Miscellaneous,None,Team lunch by Director within policy limits
+TXN-1012,Director,Miscellaneous,None,Compliant: Director-level coffee/meal with client within $100
+TXN-1013,Executive,Miscellaneous,Medium,Executive organized team event not authorized level violation
+TXN-1014,Manager,Software,None,Manager claim for Notion subscription approved
+TXN-1015,Manager,Miscellaneous,None,"Compliant: Manager level, Client meeting with coffee/meal"
+TXN-1016,Junior,Miscellaneous,High,Junior employee hosted team dinner with client
+TXN-1017,Manager,Miscellaneous,None,Manager's flight within ground transport cap; hotel
+TXN-1018,Senior,Miscellaneous,Medium,"Senior employee organized team party, exceeding hosting-rights"
+TXN-1019,Director,Miscellaneous,None,Director-level transaction within policy limit for Meals
+TXN-1020,Executive,Miscellaneous,None,Team lunch by Executive within policy limits
+TXN-1021,Director,Software,None,Director-level software claim within eligibility limit with
+TXN-1022,Director,Miscellaneous,None,Director gym membership reimbursement not allowed.
+TXN-1023,Senior,Miscellaneous,None,Ground Transport within Senior-level cap (236.38)
+TXN-1024,Junior,Miscellaneous,None,Junior employee claim for team lunch exceeds
+TXN-1025,Director,Software,None,Director level transaction with software vendor Figma
+TXN-1026,Senior,Miscellaneous,High,Team party organized by Senior employee without
+TXN-1027,Manager,Miscellaneous,None,Team dinner incorrectly coded as Meals; should
+TXN-1028,Director,Miscellaneous,None,Wellness subscription allowed at Director level
+TXN-1029,Executive,Miscellaneous,None,Executive level employee's coffee/meal with client compliant
+TXN-1030,Manager,Software,None,Manager purchased Microsoft 365 within policy limits
+TXN-1031,Senior,Miscellaneous,None,Senior expense within approval limit for client
+TXN-1032,Junior,Miscellaneous,None,Junior-level Wi-Fi expense within policy limit.
+TXN-1033,Director,Software,None,Director purchase within policy limit for office
+TXN-1034,Senior,Miscellaneous,None,Senior employee claim compliant - Meeting at
+TXN-1035,Executive,Miscellaneous,None,"Executive organized team dinner at a pub,"
+TXN-1036,Senior,Miscellaneous,None,Compliant - Coffee/meal claim by Senior with
+TXN-1037,Executive,Miscellaneous,None,Executive level purchase under $500 without prior
+TXN-1038,Senior,Miscellaneous,None,"Senior employee claim within policy limits, but"
+TXN-1039,Junior,Miscellaneous,None,Junior employee submitted Wi-Fi claim under Miscellaneous
+TXN-1040,Manager,Miscellaneous,None,Team dinner at Local Pub Berlin (within
+TXN-1041,Executive,Software,None,"Reimbursable transaction under $25, no receipt required."
+TXN-1042,Junior,Miscellaneous,High,"Junior employee submitted a team party claim,"
+TXN-1043,Junior,Miscellaneous,None,Junior employee incurred personal cab expense for
+TXN-1044,Manager,Software,None,Compliant: Dinner with client at approved partner
+TXN-1045,Junior,Miscellaneous,High,Junior employee submitted a team party claim
+TXN-1046,Director,Miscellaneous,None,Director expense within policy for Office Parking
+TXN-1047,Junior,Miscellaneous,High,Junior employee claimed non-eligible Miscellaneous expense (Wi-Fi
+TXN-1048,Director,Miscellaneous,None,Director's dinner at Kestrel & Vine compliant
+TXN-1049,Junior,Miscellaneous,High,Junior employee submitted Wi-Fi expense under Miscellaneous
+TXN-1050,Executive,Miscellaneous,High,"Executive organized team dinner exceeds $100/person cap,"
+TXN-1051,Executive,Miscellaneous,High,Executive claim for 'general purchase' exceeds $200
+TXN-1052,Junior,Miscellaneous,None,Junior employee Wi-Fi expense valid within policy
+TXN-1053,Director,Miscellaneous,None,Director travel exceeds policy limit for local
+TXN-1054,Manager,Software,None,Manager-level expense compliant - meal within policy
+TXN-1055,Manager,Miscellaneous,None,"Coffee/meal with client exceeds $200 detail threshold,"
+TXN-1056,Senior,Miscellaneous,High,"Senior employee organized team party, violates hosting-rights"
+TXN-1057,Senior,Miscellaneous,None,"Exceeds hotel cap for Senior level employees,"
+TXN-1058,Junior,Software,None,Junior-eligible Wi-Fi expense validated: Hotel Wi-Fi during
+TXN-1059,Manager,Miscellaneous,High,Manager's $264.91 cash withdrawal with vague justification
+TXN-1060,Executive,Miscellaneous,None,"Replacement keyboard & mouse under $500, no"
+TXN-1061,Senior,Miscellaneous,None,Senior employee claim for coffee/meal within policy
+TXN-1062,Senior,Miscellaneous,None,Annual Zoom subscription for senior employee within
+TXN-1063,Junior,Miscellaneous,High,Junior employee exceeded $200 detail threshold for
+TXN-1064,Senior,Miscellaneous,Medium,"Senior employee organized team party, violation of"
+TXN-1065,Executive,Miscellaneous,None,Excessive meal cost for Q3 proposal dinner
+TXN-1066,Executive,Miscellaneous,None,Executive eligible for flights within policy limits (€371.02)
+TXN-1067,Manager,Software,None,"Receipt missing for office snacks, but within"
+TXN-1068,Executive,Miscellaneous,Medium,Executive's Wellness subscription not reimbursable under policy
+TXN-1069,Executive,Miscellaneous,Medium,Executive employee submitted non-descript 'Work session' expense
+TXN-1070,Junior,Miscellaneous,High,Junior employee submitted vague justification for cash
+TXN-1071,Director,Miscellaneous,High,Unauthorized wellness expense by Director
+TXN-1072,Director,Software,None,Director's Figma subscription renewal within policy limits (<$200)
+TXN-1073,Director,Meals,None,Director level eligible for Software & Subscription claim.
+TXN-1074,Manager,Miscellaneous,Medium,Manager submitted a 'Other' claim for $200
+TXN-1075,Senior,Miscellaneous,High,Senior employee exceeded approval limit for cash
+TXN-1076,Junior,Miscellaneous,None,Junior employee claim valid for Wi-Fi expense
+TXN-1077,Director,Miscellaneous,None,Director exceeded local ground transport cap for
+TXN-1078,Senior,Miscellaneous,None,Senior employee incurred ground transport exceeding $40 cap.
+TXN-1079,Manager,Miscellaneous,None,Manager-level Miscellaneous expense (Amazon) within policy limit
+TXN-1080,Junior,Miscellaneous,None,Junior employee submitted personal train expense for
+TXN-1081,Executive,Miscellaneous,None,Executive can claim solo meals up to
+TXN-1082,Senior,Miscellaneous,None,Compliant: Senior eligible for Client Entertainment with
+TXN-1083,Senior,Miscellaneous,None,Annual Figma license renewal for Senior employee
+TXN-1084,Junior,Miscellaneous,High,Junior employee claimed Software & Subscriptions (Notion)
+TXN-1085,Senior,Miscellaneous,None,Solo meal claim by Senior is compliant
+TXN-1086,Director,Miscellaneous,None,Director hotel stay within policy during client
+TXN-1087,Manager,Software,None,Manager train expense compliant within $40 cap.
+TXN-1088,Senior,Miscellaneous,Medium,Senior employee submitted team lunch under Meals
+TXN-1089,Director,Miscellaneous,None,Director claim for $122.31 dinner needs client attachment
+TXN-1090,Manager,Software,Medium,Unjustified Cash Withdrawal for Office Supplies (Adapter)
+TXN-1091,Junior,Miscellaneous,None,Junior employee incurred personal travel expense (Lufthansa
+TXN-1092,Senior,Miscellaneous,None,Senior employee solo meal within policy limits
+TXN-1093,Manager,Software,None,Manager transaction within policy limits (Section 6
+TXN-1094,Director,Miscellaneous,None,Director-level SIM card expense violates category restriction
+TXN-1095,Executive,Miscellaneous,None,Compliant — Executive-level hotel & flight expenses
+TXN-1096,Executive,Miscellaneous,Medium,Executive claim above $200 with vague justification
+TXN-1097,Executive,Entertainment,None,Legitimate annual renewal of software subscription within
+TXN-1098,Manager,Miscellaneous,High,Unauthorized team party exceeding spending cap (TXN-1098).
+TXN-1099,Executive,Miscellaneous,None,Unknown Vendor transaction for postage; additional scrutiny required.
+TXN-1100,Executive,Miscellaneous,Medium,Executive submitted client dinner without pre-approval for
+TXN-1101,Director,Miscellaneous,None,Director hotel claim within policy for client
+TXN-1102,Junior,Miscellaneous,Medium,Junior employee purchased Software & Subscription without approval.
+TXN-1103,Senior,Miscellaneous,None,Senior organized team event exceeds hosting rights
+TXN-1104,Executive,Miscellaneous,None,Executive dinner with client within cap limits

@@ -1,0 +1,201 @@
+transaction ID,Level,Amount,RAG Category,RAG violation,RAG Summary
+TXN-1001,Executive,218.58,Miscellaneous,None,"Executive level can claim Software & Subscriptions,"
+TXN-1002,Senior,83.89,Miscellaneous,None,Legitimate software subscription claim in Miscellaneous category
+TXN-1003,Manager,380.00,Miscellaneous,None,Manager submitted non-provided category claim for client
+TXN-1004,Manager,300.00,Miscellaneous,High,Manager submitted a Miscellaneous claim over $200
+TXN-1005,Manager,314.16,Miscellaneous,Medium,Manager submitted non-provided category claim exceeding cap
+TXN-1006,Senior,276.77,Miscellaneous,None,Senior employee's hotel claim within policy for
+TXN-1007,Junior,Aug 50,Software,None,Junior employee claim for hotel WiFi is
+TXN-1008,Junior,10. Oct,Miscellaneous,None,Junior employee submitted non-eligible expense: Hotel WiFi (Miscellaneous)
+TXN-1009,Junior,12.00,Miscellaneous,None,Junior employee submitted Wi-Fi expense under Miscellaneous
+TXN-1010,Manager,57.99,Miscellaneous,None,Manager submitted misc expense with client contact;
+TXN-1011,Director,119.55,Miscellaneous,Medium,Director submitted team lunch without category specified
+TXN-1012,Director,102.95,Miscellaneous,None,"Wellness expense submitted by Director, non-compliant with policy."
+TXN-1013,Executive,631.24,Miscellaneous,None,Executive submitted team dinner claim exceeding $600
+TXN-1014,Manager,107.04,Miscellaneous,None,Manager purchased software subscription without specifying category
+TXN-1015,Manager,97.02,Miscellaneous,None,"Miscategorized transaction: Cafe Einstein under Miscellaneous, should"
+TXN-1016,Junior,602.72,Miscellaneous,Medium,Junior employee submitted a meal claim exceeding
+TXN-1017,Manager,35.00,Miscellaneous,High,Manager submitted unauthorized travel expense (Ryanair) without
+TXN-1018,Senior,1936.00,Miscellaneous,Medium,Senior employee submitted team party claim exceeding
+TXN-1019,Director,93.95,Miscellaneous,None,Director expense at Cafe Einstein (93.95) lacks
+TXN-1020,Executive,81.11,Miscellaneous,Medium,Executive submitted unspecified expense for team lunch
+TXN-1021,Director,272.78,Miscellaneous,Low,"Director purchased software subscription for client project,"
+TXN-1022,Director,60.43,Miscellaneous,None,Director's Peloton membership not reimbursable as wellness expense
+TXN-1023,Senior,236.38,Miscellaneous,None,Senior employee submitted Uber expense without specified
+TXN-1024,Junior,144.84,Miscellaneous,None,"Junior employee submitted a team lunch claim,"
+TXN-1025,Director,87.04,Miscellaneous,None,Director purchased software subscription without specifying category
+TXN-1026,Senior,1290.56,Miscellaneous,Medium,"Team party organized by Senior employee, exceeds"
+TXN-1027,Manager,174.25,Miscellaneous,Medium,Team dinner submitted under unspecified category (Violation
+TXN-1028,Director,91.92,Miscellaneous,None,Wellness expense submitted under unspecified category by Director
+TXN-1029,Executive,37.88,Miscellaneous,None,"Coffee/meal with client: Category not provided, compliant"
+TXN-1030,Manager,68.83,Miscellaneous,None,Manager purchased Microsoft 365 subscription without specifying category.
+TXN-1031,Senior,243.80,Miscellaneous,Medium,Senior employee submitted a meal expense to
+TXN-1032,Junior,14.20,Miscellaneous,None,Junior employee submitted a Miscellaneous claim for
+TXN-1033,Director,188.61,Miscellaneous,None,Director submitted Miscellaneous claim (IKEA purchase) without
+TXN-1034,Senior,142.77,Miscellaneous,Medium,Senior employee submitted a claim without specifying
+TXN-1035,Executive,95.95,Miscellaneous,Medium,Executive submitted team dinner to Local Pub
+TXN-1036,Senior,129.10,Miscellaneous,Medium,Wellness expense submitted under unspecified category by
+TXN-1037,Executive,222.80,Miscellaneous,High,Executive level employee submitted a Miscellaneous claim
+TXN-1038,Senior,33.02,Miscellaneous,None,Solo meal by Senior employee is compliant
+TXN-1039,Junior,14.99,Miscellaneous,None,Junior employee submitted a Wi-Fi claim without
+TXN-1040,Manager,213.04,Miscellaneous,None,Team dinner at a pub not logged
+TXN-1041,Executive,27.18,Software,None,Uncategorized Amazon purchase by Executive employee (TXN-1041).
+TXN-1042,Junior,1449.30,Miscellaneous,Medium,"Junior employee organized team party, violation of"
+TXN-1043,Junior,199.99,Miscellaneous,Low,Junior employee submitted hotel expense without proper
+TXN-1044,Manager,210.28,Miscellaneous,None,Manager submitted Meals claim without specifying category
+TXN-1045,Junior,1743.44,Miscellaneous,None,Junior employee organized team party at a
+TXN-1046,Director,16.26,Miscellaneous,None,Director-level employee submitted a Miscellaneous claim for
+TXN-1047,Junior,Sep 99,Miscellaneous,High,Junior employee submitted a miscellaneous claim for
+TXN-1048,Director,117.94,Miscellaneous,None,Director submitted an unspecified expense at Kestrel
+TXN-1049,Junior,Jun 50,Miscellaneous,None,Junior-eligible Wi-Fi claim compliant for client project trip
+TXN-1050,Executive,580.52,Miscellaneous,None,Team dinner exceeds Entertainment cap for Executive
+TXN-1051,Executive,247.09,Miscellaneous,High,Executive submitted a vague justification for a
+TXN-1052,Junior,Nov 25,Miscellaneous,None,Junior employee claim for airport WiFi compliant
+TXN-1053,Director,541.41,Miscellaneous,High,Director's travel claim exceeds policy cap for
+TXN-1054,Manager,Oct 99,Miscellaneous,None,Manager submitted a miscoded meal transaction (Breakfast
+TXN-1055,Manager,179.68,Miscellaneous,None,Compliant: Manager-level employee submitting a meal claim
+TXN-1056,Senior,1737.68,Miscellaneous,Medium,"Senior employee organized team event, violation of"
+TXN-1057,Senior,613.97,Miscellaneous,None,Senior employee's claim exceeds policy limits for
+TXN-1058,Junior,13.80,Software,None,Junior employee submitted Wi-Fi expense without providing category
+TXN-1059,Manager,264.91,Miscellaneous,High,Manager submitted a vague justification for cash
+TXN-1060,Executive,251.60,Software,None,Executive level employee submitted a software purchase
+TXN-1061,Senior,205.23,Miscellaneous,Medium,Senior employee submitted a meal claim with
+TXN-1062,Senior,284.24,Miscellaneous,None,Annual Zoom license renewal falls under Software
+TXN-1063,Junior,480.00,Miscellaneous,High,Junior employee submitted a $480 office furniture
+TXN-1064,Senior,1403.10,Miscellaneous,Medium,Senior employee organized team event in Miscellaneous
+TXN-1065,Executive,525.96,Miscellaneous,Medium,Executive submitted client dinner to Local Pub
+TXN-1066,Executive,371.02,Miscellaneous,None,Executive travel for internal training exceeds policy
+TXN-1067,Manager,19.63,Miscellaneous,None,Manager can submit Miscellaneous expenses for office
+TXN-1068,Executive,48.78,Miscellaneous,None,Wellness expense submitted under unspecified category by
+TXN-1069,Executive,137.20,Miscellaneous,Medium,Executive submitted a Miscellaneous expense without providing
+TXN-1070,Junior,248.21,Miscellaneous,High,Junior employee submitted a vague justification for
+TXN-1071,Director,117.20,Miscellaneous,None,Personal training expense submitted under unspecified category
+TXN-1072,Director,249.12,Miscellaneous,None,"Director level can claim Software & Subscriptions,"
+TXN-1073,Director,55.56,Miscellaneous,None,Director-level Figma subscription within policy limits.
+TXN-1074,Manager,200.00,Miscellaneous,High,Manager submitted a Miscellaneous claim over $200
+TXN-1075,Senior,253.58,Miscellaneous,High,Senior employee submitted a cash withdrawal with
+TXN-1076,Junior,Jul 40,Miscellaneous,Low,Junior employee submitted Wi-Fi expense under Miscellaneous
+TXN-1077,Director,591.96,Miscellaneous,High,Director's travel claim exceeds policy limits for
+TXN-1078,Senior,200.00,Miscellaneous,High,Unauthorized Expense: Senior employee submitted a car
+TXN-1079,Manager,125.80,Miscellaneous,High,Manager submitted a Miscellaneous claim exceeding policy
+TXN-1080,Junior,180.44,Miscellaneous,None,Level-Restricted Category Violation (Section 9.6)
+TXN-1081,Executive,14.48,Miscellaneous,Medium,Executive submitted a solo meal claim without
+TXN-1082,Senior,319.12,Miscellaneous,Medium,Wellness expense (coffee with client) submitted by
+TXN-1083,Senior,73.11,Miscellaneous,None,Annual Figma license renewal for department (no
+TXN-1084,Junior,69.97,Miscellaneous,High,"Junior employee submitted a software subscription claim,"
+TXN-1085,Senior,37.73,Miscellaneous,Medium,Senior employee submitted a solo meal claim
+TXN-1086,Director,507.62,Miscellaneous,None,Director hotel claim within policy limits with
+TXN-1087,Manager,28.50,Miscellaneous,None,"Manager submitted train ticket without specified category,"
+TXN-1088,Senior,191.58,Miscellaneous,Medium,Senior employee submitted a meal claim without
+TXN-1089,Director,122.31,Miscellaneous,None,Director submitted meal claim without category specified
+TXN-1090,Manager,140.83,Miscellaneous,None,Unspecified category for cash withdrawal by Manager
+TXN-1091,Junior,108.85,Miscellaneous,High,Junior employee submitted personal travel expense (Lufthansa ticket)
+TXN-1092,Senior,Sep 34,Miscellaneous,Medium,Senior employee submitted a meal claim without
+TXN-1093,Manager,22.75,Miscellaneous,None,Manager submitted a Miscellaneous expense without specifying
+TXN-1094,Director,161.37,Miscellaneous,None,Director submitted non-categorized cash withdrawal for business
+TXN-1095,Executive,518.73,Miscellaneous,None,Executive flight/hotel claim compliant (pending meal justification)
+TXN-1096,Executive,250.00,Miscellaneous,High,Executive submitted a $250 Miscellaneous expense without justification.
+TXN-1097,Executive,254.64,Miscellaneous,High,Executive level employee submitted a Miscellaneous claim
+TXN-1098,Manager,1768.32,Miscellaneous,High,Manager organized unauthorized team party exceeding $100/person cap
+TXN-1099,Executive,86.52,Miscellaneous,High,Executive level claim for 'Postage' from 'Unknown
+TXN-1100,Executive,169.44,Miscellaneous,Medium,Executive submitted a meal claim without specifying
+TXN-1101,Director,249.21,Miscellaneous,None,"Compliant (Travel & Hotel costs bundled, but"
+TXN-1102,Junior,294.71,Miscellaneous,High,Junior employee submitted a Software & Subscriptions
+TXN-1103,Senior,480.76,Miscellaneous,None,Team event organized by Senior employee is
+TXN-1104,Executive,95.00,Miscellaneous,None,Executive submitted a meal claim without specifying
+TXN-1105,Senior,442.28,Miscellaneous,None,Cash withdrawal not specified in policy for
+TXN-1106,Manager,95.27,Miscellaneous,Low,Manager level employee submitted Miscellaneous claim for
+TXN-1107,Manager,33.60,Miscellaneous,None,Solo lunch within policy limits for Manager level.
+TXN-1108,Manager,1684.31,Miscellaneous,High,"Unauthorized team party exceeding cap, incorrect category submission."
+TXN-1109,Executive,34.56,Miscellaneous,None,Executive breakfast meeting with manager under Miscellaneous
+TXN-1110,Junior,97.82,Miscellaneous,None,"Junior employee submitted expense without a category,"
+TXN-1111,Junior,51.56,Miscellaneous,High,Level-Restricted Category Violation: Junior employee submitted a
+TXN-1112,Junior,324.12,Miscellaneous,Medium,Junior employee submitted a meal claim exceeding
+TXN-1113,Senior,156.52,Miscellaneous,None,Senior employee claimed Zoom subscription under Miscellaneous category.
+TXN-1114,Executive,81.84,Miscellaneous,None,Executive personal training expense submitted under unspecified
+TXN-1115,Junior,143.87,Miscellaneous,High,Junior employee submitted a Miscellaneous expense for
+TXN-1116,Senior,21.80,Miscellaneous,None,Non-eligible expense: Cash withdrawal for SIM card
+TXN-1117,Executive,270.80,Miscellaneous,None,"Executive can submit team meals within cap,"
+TXN-1118,Manager,296.16,Miscellaneous,Low,Manager level employee submitted Miscellaneous claim under
+TXN-1119,Junior,59.16,Miscellaneous,Medium,Junior employee submitted a non-provided category expense
+TXN-1120,Senior,97.56,Miscellaneous,None,Senior employee submitted a Miscellaneous claim without
+TXN-1121,Executive,645.14,Miscellaneous,None,Executive travel for internal training exceeds policy
+TXN-1122,Senior,82.91,Miscellaneous,Medium,Senior employee submitted a Starbucks expense under
+TXN-1123,Director,148.52,Miscellaneous,None,"Director's Sixt Rent claim compliant (unspecified category,"
+TXN-1124,Director,508.25,Miscellaneous,None,"Director travel claim compliant (flights/hotel separate, meals"
+TXN-1125,Junior,345.96,Miscellaneous,Medium,Junior employee submitted a meal expense to
+TXN-1126,Junior,125.68,Miscellaneous,High,Junior employee submitted a Miscellaneous claim exceeding
+TXN-1127,Manager,131.64,Miscellaneous,None,Manager purchased Zoom subscription within Miscellaneous category
+TXN-1128,Manager,292.60,Miscellaneous,Medium,Manager submitted non-Meals expense to a Partner
+TXN-1129,Director,14. Dec,Miscellaneous,None,Director submitted a Miscellaneous expense without providing
+TXN-1130,Executive,412.43,Miscellaneous,None,Executive submits train ticket under Miscellaneous category (Violation)
+TXN-1131,Senior,204.35,Miscellaneous,High,Senior employee submitted a Miscellaneous claim over
+TXN-1132,Manager,1303.55,Miscellaneous,Medium,Manager organized team party exceeding $100 cap
+TXN-1133,Executive,31.18,Miscellaneous,None,Executive submitted Miscellaneous expense without providing category
+TXN-1134,Junior,211.78,Miscellaneous,High,Junior employee submitted a cash withdrawal with
+TXN-1135,Executive,350.75,Miscellaneous,None,Executive exceeded $500 Office Supplies limit without
+TXN-1136,Executive,459.19,Miscellaneous,None,"Executive travel claim compliant (flights/hotel separately billed,"
+TXN-1137,Junior,248.19,Miscellaneous,High,Junior employee submitted personal transport expense (Sixt
+TXN-1138,Director,23.40,Miscellaneous,None,Director submitted a solo meal to Cafe
+TXN-1139,Senior,208.60,Miscellaneous,Medium,Unapproved client meeting expense exceeding $100 per
+TXN-1140,Manager,294.17,Miscellaneous,None,Manager-level claim for GitHub subscription exceeds Software
+TXN-1141,Executive,125.31,Miscellaneous,None,Executive claimed Miscellaneous expense without justification (TXN-1141).
+TXN-1142,Manager,18.76,Miscellaneous,None,"Manager submitted solo meal to non-specified category,"
+TXN-1143,Junior,79.01,Miscellaneous,None,"Junior employee submitted team lunch expense, but"
+TXN-1144,Executive,96.18,Miscellaneous,None,Executive wellness subscription not reimbursable at any
+TXN-1145,Manager,425.00,Miscellaneous,High,Manager-level employee exceeded $500 Office Supplies cap
+TXN-1146,Senior,442.28,Miscellaneous,None,Cash withdrawal not specified in policy for
+TXN-1147,Director,204.88,Miscellaneous,High,Director submitted Miscellaneous claim exceeding $200 without
+TXN-1148,Junior,166.56,Miscellaneous,High,Junior employee submitted a Software & Subscription
+TXN-1149,Manager,38.20,Miscellaneous,None,"Manager-level flight within cap, hotel not specified"
+TXN-1150,Senior,Sep 92,Miscellaneous,Medium,Senior employee submitted office snacks claim (unauthorized category)
+TXN-1151,Junior,190.00,Miscellaneous,None,Junior employee submitted a team dinner expense
+TXN-1152,Manager,19.90,Miscellaneous,None,Manager-level DB Bahn claim compliant (pending category confirmation)
+TXN-1153,Junior,91.76,Miscellaneous,High,Junior employee submitted a non-reimbursable expense (Starbucks:
+TXN-1154,Manager,448.95,Miscellaneous,High,Manager submitted Office Supplies claim over $500
+TXN-1155,Director,280.35,Miscellaneous,Medium,Wellness expense submitted under unspecified category by Director
+TXN-1156,Junior,86.43,Miscellaneous,High,Junior employee submitted a Miscellaneous claim exceeding
+TXN-1157,Director,39.08,Miscellaneous,None,Director submitted Misc expense (Vapiano) for solo
+TXN-1158,Senior,40.28,Miscellaneous,None,Valid Miscellaneous claim for parking during client
+TXN-1159,Junior,291.82,Miscellaneous,High,Junior employee submitted Uber expense for train
+TXN-1160,Senior,163.21,Miscellaneous,High,Unapproved Miscellaneous expense by Senior employee for
+TXN-1161,Manager,299.99,Miscellaneous,None,"Manager level purchase under $500 from IKEA,"
+TXN-1162,Executive,266.83,Miscellaneous,High,Executive submitted a $266.83 Miscellaneous claim with
+TXN-1163,Executive,67.92,Miscellaneous,High,Executive purchased Slack subscription in Miscellaneous category
+TXN-1164,Senior,228.65,Miscellaneous,None,Senior employee purchase from IKEA within Office
+TXN-1165,Executive,236.80,Miscellaneous,High,Executive submitted Miscellaneous claim exceeding $200 without
+TXN-1166,Junior,171.63,Miscellaneous,Low,"Junior employee submitted Miscellaneous expense (PayPal Transfer),"
+TXN-1167,Director,210.41,Miscellaneous,Low,"Director submitted Miscellaneous claim under $200 threshold,"
+TXN-1168,Manager,460.50,Miscellaneous,None,Manager level employee submitted a Miscellaneous claim
+TXN-1169,Executive,91.77,Miscellaneous,Medium,Team dinner submitted under unspecified category by
+TXN-1170,Executive,18.86,Miscellaneous,None,Executive solo lunch within policy limits at
+TXN-1171,Manager,136.51,Miscellaneous,None,Manager-level Miscellaneous claim without category provided (Parking
+TXN-1172,Manager,39.26,Miscellaneous,None,Breakfast meeting with manager is a team
+TXN-1173,Senior,484.13,Miscellaneous,None,Senior employee submitted DB Bahn expense for
+TXN-1174,Director,154.37,Miscellaneous,None,Team dinner at The Grand Bar (unspecified
+TXN-1175,Executive,1109.55,Miscellaneous,Medium,Executive submitted a team party claim without
+TXN-1176,Senior,337.08,Software,None,Senior employee claim within Office Supplies category
+TXN-1177,Senior,427.85,Miscellaneous,Medium,Senior employee submitted a claim for Cafe
+TXN-1178,Junior,490.77,Miscellaneous,Medium,Junior employee organized team party at a
+TXN-1179,Junior,126.03,Miscellaneous,High,Junior employee submitted an unauthorized transport expense
+TXN-1180,Executive,141.22,Miscellaneous,None,Executive submitted a meal claim without specifying
+TXN-1181,Executive,Nov 21,Miscellaneous,Medium,"Executive submitted Miscellaneous expense without providing category,"
+TXN-1182,Executive,41.87,Miscellaneous,None,Executive submits unspecified Miscellaneous expense for a
+TXN-1183,Senior,30.83,Miscellaneous,None,Uncategorized expense submitted by Senior employee violates policy.
+TXN-1184,Manager,14.18,Miscellaneous,None,"Solo lunch within policy for Manager level,"
+TXN-1185,Executive,410.20,Miscellaneous,High,Executive purchased office supplies exceeding cap without
+TXN-1186,Executive,251.61,Miscellaneous,None,Executive submitted a group dinner claim without
+TXN-1187,Director,163.46,Miscellaneous,Medium,Director submitted team dinner claim under unspecified
+TXN-1188,Junior,480.00,Miscellaneous,High,Junior employee submitted an office furniture purchase
+TXN-1189,Manager,31.40,Miscellaneous,None,"Manager flight within cap, hotel not applicable"
+TXN-1190,Director,49.03,Miscellaneous,Medium,"Director submitted solo team lunch without category,"
+TXN-1191,Director,425.21,Miscellaneous,High,Director exceeded $500 Office Supplies limit without
+TXN-1192,Director,2011.35,Miscellaneous,Medium,Director organized team party without submitting under
+TXN-1193,Manager,218.05,Miscellaneous,High,Manager submitted Miscellaneous claim exceeding policy limit
+TXN-1194,Junior,247.50,Miscellaneous,Medium,Junior employee submitted partner restaurant expense to
+TXN-1195,Senior,400.00,Miscellaneous,High,Senior employee submitted a vague justification for
+TXN-1196,Manager,24.60,Miscellaneous,None,Manager submitted a Miscellaneous expense without specifying
+TXN-1197,Manager,340.08,Miscellaneous,None,Compliant: Manager-level dinner with client team within
+TXN-1198,Manager,391.55,Miscellaneous,High,Manager submitted Miscellaneous claim exceeding $200 without
+TXN-1199,Director,181.06,Miscellaneous,Medium,Director submitted meal claim without specifying category
+TXN-1200,Director,350.75,Miscellaneous,None,Director purchased office furniture exceeding $500 limit

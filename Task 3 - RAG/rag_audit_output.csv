@@ -1,0 +1,7 @@
+transaction ID,Level,Amount,RAG Category,RAG violation,RAG Summary
+TXN-1001,Executive,218.58,Miscellaneous,None,Executive claims GitHub subscription under Miscellaneous category
+TXN-1002,Senior,83.89,Miscellaneous,None,Unapproved Software Subscription (Notion) - Miscellaneous Category Violation
+TXN-1003,Manager,380.00,Miscellaneous,Medium,Manager submitted a meal claim without specifying
+TXN-1004,Manager,300.00,Miscellaneous,Medium,"Manager purchased Officeworks items without specific description,"
+TXN-1005,Manager,314.16,Miscellaneous,Medium,Team dinner expense miscoded as Miscellaneous
+TXN-1006,Senior,276.77,Miscellaneous,High,"Unreimbursable hotel expense by Senior employee (Marriott, $276.77)"

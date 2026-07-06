@@ -1,0 +1,67 @@
+transaction ID,Level,RAG Category,RAG violation,RAG Summary
+TXN-1001,Executive,Software,None,Executives eligible for software subscriptions.
+TXN-1002,Senior,Software,Low,Senior-level software subscription claim approved.
+TXN-1003,Manager,Meals,None,Manager reimbursed $300 for 4-person dinner.
+TXN-1004,Manager,Office Supplies,None,Reimbursable up to $500 per transaction.
+TXN-1005,Manager,Entertainment,None,Manager-led team dinner at Cafe Einstein.
+TXN-1006,Senior,Meals,None,Client Engagement Meals Claimed
+TXN-1007,Junior,Wi-Fi/Connectivity,None,Junior Wi-Fi expense $15 reimbursable.
+TXN-1008,Junior,Wi-Fi/Connectivity,None,Junior employee Wi-Fi expense $10. Oct
+TXN-1009,Junior,Wi-Fi/Connectivity,None,Junior employee reimbursed $12.00 Airport WiFi
+TXN-1010,Manager,Meals,None,Manager submits coffee and meal for client meeting.
+TXN-1011,Director,Meals,None,Director submits solo meal claim.
+TXN-1012,Director,Meals,None,Client meal at Cafe Einstein.
+TXN-1013,Executive,Meals,None,Executive meal claim exceeds $25.
+TXN-1014,Manager,Software,Low,Manager's software subscription claim approved.
+TXN-1015,Manager,Entertainment,None,Client dinner with 3 attendees.
+TXN-1016,Junior,Meals,None,Client Dinner Reimbursement Eligible
+TXN-1017,Manager,Travel,None,Manager-level flight claim $35.00
+TXN-1018,Senior,Meals,None,Senior employee meal claim.
+TXN-1019,Director,Meals,None,Director's meal expense justified.
+TXN-1020,Executive,Meals,None,Executive meal claim approved.
+TXN-1021,Director,Software,Low,Director-level software subscription claim approved.
+TXN-1022,Director,Miscellaneous,None,Director submits $65 gym membership claim.
+TXN-1023,Senior,Travel,None,Senior-level flight claim exceeds cap.
+TXN-1024,Junior,Meals,None,Junior employee meal claim approved.
+TXN-1025,Director,Software,None,Director uses Figma software subscription.
+TXN-1026,Senior,Entertainment,None,Team Party Reimbursement
+TXN-1027,Manager,Entertainment,None,Manager-led team dinner.
+TXN-1028,Director,Miscellaneous,None,Director submits wellness expense.
+TXN-1029,Executive,Meals,None,Client meal claim submitted by Executive.
+TXN-1030,Manager,Software,None,Manager's software subscription claim is approved.
+TXN-1031,Senior,Meals,None,Senior employee meal claim.
+TXN-1032,Junior,Wi-Fi/Connectivity,None,Junior employee reimbursed $14.20 airport Wi-Fi
+TXN-1033,Director,Office Supplies,None,Director purchases monitor for work.
+TXN-1034,Senior,Meals,None,Senior employee meal justification is acceptable.
+TXN-1035,Executive,Entertainment,None,Alcohol served at team dinner.
+TXN-1036,Senior,Meals,None,Senior employee submits claim for solo meal.
+TXN-1037,Executive,Office Supplies,None,Reimbursable up to $500 per transaction.
+TXN-1038,Senior,Meals,None,Senior employee's solo meal claim is compliant.
+TXN-1039,Junior,Wi-Fi/Connectivity,None,Junior employee Wi-Fi expense $14.99.
+TXN-1040,Manager,Entertainment,None,Manager-level team dinner at Local Pub Berlin.
+TXN-1041,Executive,Office Supplies,None,Hardware adapter purchase approved.
+TXN-1042,Junior,Entertainment,None,Team party for 30 people.
+TXN-1043,Junior,Meals,None,Compliant Client Entertainment claim.
+TXN-1044,Manager,Meals,None,Manager submits dinner claim for 2 attendees.
+TXN-1045,Junior,Entertainment,None,Team Party Reimbursement
+TXN-1046,Director,Office Supplies,None,Director approved $16.26 parking fee.
+TXN-1047,Junior,Wi-Fi/Connectivity,None,Junior employee Wi-Fi expense $99.
+TXN-1048,Director,Entertainment,None,Director-level client entertainment expense.
+TXN-1049,Junior,Wi-Fi/Connectivity,None,Junior employee Wi-Fi expense $15
+TXN-1050,Executive,Meals,None,Executive meal claim approved.
+TXN-1051,Executive,Miscellaneous,None,Executive's general purchase.
+TXN-1052,Junior,Wi-Fi/Connectivity,None,Reimbursable Wi-Fi expense.
+TXN-1053,Director,Travel,None,Director-level business travel with prior approval.
+TXN-1054,Manager,Meals,None,Manager-level breakfast meeting justification.
+TXN-1055,Manager,Meals,None,Manager submits coffee and meal for client meeting.
+TXN-1056,Senior,Travel,None,Senior employee's unauthorized travel claim.
+TXN-1057,Senior,Meals,None,Client Engagement Meals Claimed Separately
+TXN-1058,Junior,Wi-Fi/Connectivity,None,Junior employee Wi-Fi expense $13.80
+TXN-1059,Manager,Miscellaneous,None,Manager's general purchase claim.
+TXN-1060,Executive,Office Supplies,None,Executive purchases $251.60 office supplies.
+TXN-1061,Senior,Meals,None,Senior submits claim for coffee and meal
+TXN-1062,Senior,Software,None,Senior employee purchases Zoom software subscription.
+TXN-1063,Junior,Office Supplies,None,Junior employee purchases $480 office furniture.
+TXN-1064,Senior,Meals,None,Senior employee hosts team party.
+TXN-1065,Executive,Entertainment,None,Client dinner at Local Pub Berlin.
+TXN-1066,Executive,Travel,None,Executive-level transport claim approved.
