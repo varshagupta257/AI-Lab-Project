@@ -1,0 +1,72 @@
+Transaction_ID,Level,Amount,RAG Category,RAG violation,RAG Summary
+TXN-1001,Executive,218.58,Software,None,Compliant software expense
+TXN-1002,Senior,83.89,Software,None,Compliant Software expense
+TXN-1003,Manager,380.00,Meals,None,Compliant meal expense for Manager
+TXN-1004,Manager,300.00,Office Supplies,None,Compliant with policy limits
+TXN-1005,Manager,314.16,Meals,None,Compliant with policy rules
+TXN-1006,Senior,276.77,Travel,None,Compliant Senior travel expense
+TXN-1007,Junior,Aug 50,Wi-Fi/Connectivity,None,$50 hotel Wi-Fi compliant
+TXN-1008,Junior,10. Oct,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense
+TXN-1009,Junior,12.00,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense
+TXN-1010,Manager,57.99,Meals,None,Compliant meal claim within limits
+TXN-1011,Director,119.55,Meals,None,Compliant - Director-level meal claim
+TXN-1012,Director,102.95,Meals,None,Compliant Director-level meal expense
+TXN-1013,Executive,631.24,Meals,None,Compliant with policy
+TXN-1014,Manager,107.04,Software,None,Compliant with policy
+TXN-1015,Manager,97.02,Meals,None,Compliant meal claim within Manager limits
+TXN-1016,Junior,602.72,Meals,None,Compliant - Junior meal policy not violated
+TXN-1017,Manager,35.00,Travel,None,Compliant - within capped limit
+TXN-1018,Senior,1936.00,Miscellaneous,None,Compliant - Team party justification
+TXN-1019,Director,93.95,Miscellaneous,None,Compliant - No specific limit mentioned
+TXN-1020,Executive,81.11,Meals,None,Compliant - Executive meal limit not exceeded
+TXN-1021,Director,272.78,Software,None,Compliant software expense
+TXN-1022,Director,60.43,Miscellaneous,None,Compliant - Wellness costs not reimbursable
+TXN-1023,Senior,236.38,Travel,None,Compliant with policy rules
+TXN-1024,Junior,144.84,Meals,Medium,Junior employee meal expense exceeds policy limit
+TXN-1025,Director,87.04,Software,None,Compliant software expense
+TXN-1026,Senior,1290.56,Miscellaneous,None,Team party exceeds hosting rights
+TXN-1027,Manager,174.25,Meals,None,Compliant with policy limits
+TXN-1028,Director,91.92,Miscellaneous,None,Wellness subscription not reimbursable
+TXN-1029,Executive,37.88,Meals,None,Compliant - within meal limit
+TXN-1030,Manager,68.83,Software,None,Compliant software expense
+TXN-1031,Senior,243.80,Meals,None,Compliant Client Entertainment expense
+TXN-1032,Junior,14.20,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense
+TXN-1033,Director,188.61,Miscellaneous,None,Compliant with policy
+TXN-1034,Senior,142.77,Meals,None,Compliant Senior-level meal expense
+TXN-1035,Executive,95.95,Meals,None,Compliant with policy limits
+TXN-1036,Senior,129.10,Meals,None,Compliant with policy rules
+TXN-1037,Executive,222.80,Office Supplies,None,Compliant Office Supplies expense
+TXN-1038,Senior,33.02,Meals,None,Compliant solo meal expense
+TXN-1039,Junior,14.99,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense
+TXN-1040,Manager,213.04,Meals,None,Compliant with policy limits
+TXN-1041,Executive,27.18,Miscellaneous,None,Compliant - Small hardware adapter expense
+TXN-1042,Junior,1449.30,Meals,None,Junior cannot host team party
+TXN-1043,Junior,199.99,Travel,None,Junior employee travel expense compliant
+TXN-1044,Manager,210.28,Meals,None,Compliant with policy rules
+TXN-1045,Junior,1743.44,Meals,None,Junior employee not eligible for team party
+TXN-1046,Director,16.26,Miscellaneous,None,Compliant - Parking fee expense
+TXN-1047,Junior,Sep 99,Wi-Fi/Connectivity,None,$4.99 Wi-Fi expense compliant
+TXN-1048,Director,117.94,Meals,None,Compliant - Director's client dinner
+TXN-1049,Junior,Jun 50,Wi-Fi/Connectivity,None,$50 hotel Wi-Fi compliant expense
+TXN-1050,Executive,580.52,Meals,None,Compliant with policy for Executive level
+TXN-1051,Executive,247.09,Miscellaneous,None,Compliant with policy limits
+TXN-1052,Junior,Nov 25,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense
+TXN-1053,Director,541.41,Travel,None,Compliant Director-level travel expense
+TXN-1054,Manager,Oct 99,Meals,None,Compliant meal expense for Manager
+TXN-1055,Manager,179.68,Meals,None,Compliant meal claim within Manager limits
+TXN-1056,Senior,1737.68,Meals,None,Compliant team party expense
+TXN-1057,Senior,613.97,Travel,None,Compliant Senior travel expense
+TXN-1058,Junior,13.80,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense
+TXN-1059,Manager,264.91,Miscellaneous,None,Compliant with policy
+TXN-1060,Executive,251.60,Miscellaneous,None,Compliant - Replacement office supplies
+TXN-1061,Senior,205.23,Meals,None,Compliant with policy rules
+TXN-1062,Senior,284.24,Software,None,Compliant software expense
+TXN-1063,Junior,480.00,Office Supplies,None,Compliant with policy
+TXN-1064,Senior,1403.10,Meals,None,Compliant - Team party justification
+TXN-1065,Executive,525.96,Meals,None,Compliant - within per-person limit
+TXN-1066,Executive,371.02,Travel,None,Compliant with travel policy
+TXN-1067,Manager,19.63,Meals,None,Compliant - within Manager limit
+TXN-1068,Executive,48.78,Miscellaneous,None,Compliant - Wellness costs not reimbursable
+TXN-1069,Executive,137.20,Miscellaneous,None,Compliant - No policy limit exceeded
+TXN-1070,Junior,248.21,Miscellaneous,None,Compliant with Miscellaneous policy
+TXN-1071,Director,117.20,Miscellaneous,None,Compliant - Wellness/Fitness/Gym expense

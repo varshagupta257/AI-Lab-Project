@@ -1,0 +1,46 @@
+transaction ID,Level,Amount,RAG Category,RAG violation,RAG Summary
+TXN-1001,Executive,218.58,Meals,High,Software subscription not eligible for Executive level
+TXN-1002,Senior,83.89,Software,None,Compliant software subscription claim
+TXN-1003,Manager,380.00,Meals,Medium,Ineligible category for Manager-level employee
+TXN-1004,Manager,300.00,Office Supplies,None,Compliant office supplies claim
+TXN-1005,Manager,314.16,Meals,High,Team dinner not eligible for Manager level employee
+TXN-1006,Senior,276.77,Meals,High,Senior meal claim exceeds policy limits
+TXN-1007,Junior,Aug 50,Wi-Fi/Connectivity,None,Junior Wi-Fi claim within policy limits
+TXN-1008,Junior,10. Oct,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense for client visit
+TXN-1009,Junior,12.00,Wi-Fi/Connectivity,None,Compliant Wi-Fi expense for business travel
+TXN-1010,Manager,57.99,Meals,None,Compliant client meal expense
+TXN-1011,Director,119.55,Meals,High,"Missing category, team lunch justification"
+TXN-1012,Director,102.95,Meals,None,Compliant client meal expense
+TXN-1013,Executive,631.24,Meals,High,Team dinner exceeds policy limits severely
+TXN-1014,Manager,107.04,Software,None,Eligible software subscription expense
+TXN-1015,Manager,97.02,Meals,None,Compliant client meal claim
+TXN-1016,Junior,602.72,Meals,High,Junior employee submitted unapproved meal expense
+TXN-1017,Manager,35.00,Travel,Medium,Manager-level flight claim without approval
+TXN-1018,Senior,1936.00,Miscellaneous,High,Unauthorized team party by Senior employee
+TXN-1019,Director,93.95,Meals,High,Unauthorized meal claim by Director level employee
+TXN-1020,Executive,81.11,Meals,High,Unauthorized meal claim by Executive employee
+TXN-1021,Director,272.78,Software,None,Compliant software subscription expense
+TXN-1022,Director,60.43,Miscellaneous,High,Gym membership not reimbursable
+TXN-1023,Senior,236.38,Meals,None,Valid meal claim for client engagement
+TXN-1024,Junior,144.84,Meals,High,Junior employee meal claim breach
+TXN-1025,Director,87.04,Software,None,Compliant software subscription expense
+TXN-1026,Senior,1290.56,Miscellaneous,High,Unauthorized team event by Senior employee
+TXN-1027,Manager,174.25,Meals,High,Incorrect category for team dinner expense
+TXN-1028,Director,91.92,Software,High,Wellness cost submitted under Miscellaneous
+TXN-1029,Executive,37.88,Meals,None,Compliant client meal expense
+TXN-1030,Manager,68.83,Software,None,Compliant software subscription claim
+TXN-1031,Senior,243.80,Meals,Medium,Senior employee meal claim without approval
+TXN-1032,Junior,14.20,Wi-Fi/Connectivity,None,Compliant - Airport WiFi expense
+TXN-1033,Director,188.61,Miscellaneous,High,Unapproved expense category with vague justification
+TXN-1034,Senior,142.77,Meals,High,Senior employee meal claim without justification
+TXN-1035,Executive,95.95,Meals,High,Incorrect category for team dinner expense
+TXN-1036,Senior,129.10,Meals,High,Senior employee submitted unapproved meal claim
+TXN-1037,Executive,222.80,Miscellaneous,Medium,Executive's office supply claim exceeds threshold
+TXN-1038,Senior,33.02,Meals,High,Senior employee not eligible for solo meals
+TXN-1039,Junior,14.99,Wi-Fi/Connectivity,None,Junior Wi-Fi reimbursement compliant
+TXN-1040,Manager,213.04,Meals,High,Alcohol-serving venue misclassified as Meals
+TXN-1041,Executive,27.18,Office Supplies,None,Compliant Office Supplies claim
+TXN-1042,Junior,1449.30,Miscellaneous,High,Unauthorized team event by Junior employee
+TXN-1043,Junior,199.99,Miscellaneous,High,Junior employee unauthorized hotel claim
+TXN-1044,Manager,210.28,Meals,High,"Missing category, potential mis-coding violation"
+TXN-1045,Junior,1743.44,Miscellaneous,High,Unauthorized team party by Junior employee

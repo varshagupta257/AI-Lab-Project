@@ -1,0 +1,4 @@
+id,category,amount,description,violation,reasoning,execution_time_sec
+TXN-1001,Software,120.00 EUR,Monthly single seat Figma license adjustment,Medium,"The transaction exceeds the threshold of 50.00 EUR without prior approval, as stated in Section 1.1 of the corporate policy context.",9.18
+TXN-1024,Meals,78.50 EUR,Dinner meeting with potential regional distribution client,High,"The transaction exceeds the meal cap of 40.00 EUR per person (Section 1.2). Additionally, there is no secondary itemized attendee tracking list provided.",5.8
+TXN-1025,Meals,30.00 EUR,Quick lunch with client,None,"The transaction amount of 30.00 EUR does not exceed the meal cap of 40.00 EUR per person, and there is no indication that secondary itemized attendee tracking lists are missing.",6.45
