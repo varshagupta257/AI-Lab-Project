@@ -7,7 +7,7 @@ import os
 # ==========================================
 # Configuration & Absolute Paths
 # ==========================================
-INPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/Project/Task 1 - Prompting/data/expense_transactions-2.csv'
+INPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/AI Lab Project/Task 1 - Prompting/data/expense_transactions-2.csv'
 OUTPUT_FILE = '/Users/varshagupta/Desktop/VS Code/AI Lab/Project/Task 1 - Prompting/Audited_Expenses_Output.csv'
 OLLAMA_API_URL = 'http://localhost:11434/api/generate'
 MODEL_NAME = 'llama3.2:3b'
