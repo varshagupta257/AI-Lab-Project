@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuditAI - Corporate Expense Compliance Auditor</title>
+    <!-- Keep your original CSS link so other elements don't break -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    
+    <!-- Premium Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Overriding Styles for a Professional Corporate-Pastel Look -->
+    <style>
+        :root {
+            --bg-main: #FAF9FC;          
+            --bg-card: #FFFFFF;          
+            --text-primary: #1E1A24;     
+            --text-secondary: #655E7A;   
+            --border-subtle: #ECE9F2;    
+            
+            --pastel-purple: #F3E8FF;    
+            --accent-purple: #7C3AED;    
+            --pastel-yellow: #FEF3C7;    
+            --accent-yellow: #D97706;    
+            --pastel-pink: #FFE4E6;      
+            --accent-pink: #E11D48;      
+            --pastel-green: #ECFDF5;     
+            --accent-green: #059669;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-main);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 260px 1fr 280px;
+            width: 98%;
+            max-width: 1400px;
+            height: 92vh;
+            background: var(--bg-card);
+            border-radius: 20px;
+            box-shadow: 0 12px 40px rgba(124, 58, 237, 0.05);
+            border: 1px solid var(--border-subtle);
+            overflow: hidden;
+        }
+
+        /* Sidebars */
+        .sidebar, .right-panel {
+            background-color: #FFFFFF;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            box-sizing: border-box;
+            height: 100%;
+            overflow-y: auto;
+        }
+
+        .sidebar { border-right: 1px solid var(--border-subtle); }
+        .right-panel { border-left: 1px solid var(--border-subtle); }
+
+        .logo h2 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--accent-purple);
+            margin: 0 0 6px 0;
+        }
+
+        .industry {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+            margin: 0 0 12px 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .status {
+            display: inline-block;
+            background-color: var(--pastel-green);
+            color: var(--accent-green);
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 6px 12px;
+            border-radius: 20px;
+            border: 1px solid rgba(5, 150, 105, 0.15);
+            text-align: center;
+        }
+
+        /* --- BULLETPROOF NEW CHAT BUTTON --- */
+        #newChat {
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            width: 100% !important;
+            box-sizing: border-box !important;
+            padding: 12px 16px !important;
+            margin: 4px 0 !important;
+            
+            /* Strict Border Rules to Override style.css */
+            border-top: 2px solid var(--accent-purple) !important;
+            border-bottom: 2px solid var(--accent-purple) !important;
+            border-left: 2px solid var(--accent-purple) !important;
+            border-right: 2px solid var(--accent-purple) !important;
+            border-radius: 8px !important;
+            
+            background-color: transparent !important;
+            color: var(--accent-purple) !important;
+            font-weight: 700 !important;
+            font-size: 0.9rem !important;
+            font-family: inherit !important;
+            cursor: pointer !important;
+            transition: all 0.2s ease !important;
+            box-shadow: none !important;
+        }
+
+        #newChat:hover {
+            background-color: var(--pastel-purple) !important;
+            transform: translateY(-1px) !important;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid var(--border-subtle);
+            margin: 4px 0;
+        }
+
+        h3 {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--text-secondary);
+            margin: 0 0 8px 0;
+        }
+
+        /* Audit History List */
+        .history {
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .history div, .history button, .history .chat-item, .history-item {
+            background: transparent !important;
+            border: none !important;
+            box-shadow: none !important;
+            color: var(--text-secondary) !important;
+            padding: 10px 8px !important;
+            border-radius: 8px !important;
+            font-size: 0.85rem !important;
+            text-align: left !important;
+            cursor: pointer !important;
+            transition: all 0.25s ease !important;
+            display: flex !important;
+            align-items: center !important;
+            gap: 8px !important;
+            width: 100% !important;
+            box-sizing: border-box !important;
+        }
+
+        .history div::before, .history button::before, .history .chat-item::before, .history-item::before {
+            content: "➔";
+            color: var(--accent-purple);
+            font-size: 0.75rem;
+            opacity: 0.7;
+        }
+
+        .history div:hover, .history button:hover, .history .chat-item:hover, .history-item:hover {
+            background-color: var(--pastel-purple) !important;
+            color: var(--accent-purple) !important;
+            padding-left: 14px !important;
+        }
+
+        /* Instruction Card */
+        .instruction-card {
+            background-color: #FAF8FD;
+            border: 1px solid rgba(124, 58, 237, 0.12);
+            border-radius: 12px;
+            padding: 14px 16px;
+            font-size: 0.82rem;
+            line-height: 1.45;
+            color: var(--text-primary);
+        }
+
+        .instruction-card p {
+            margin: 0 0 10px 0;
+            font-weight: 600;
+            color: var(--accent-purple);
+        }
+
+        .instruction-card ul {
+            margin: 0;
+            padding-left: 16px;
+        }
+
+        .instruction-card li {
+            margin-bottom: 6px;
+            color: var(--text-secondary);
+        }
+
+        /* Main Chat Area */
+        .chat-area {
+            display: flex;
+            flex-direction: column;
+            background: #FAFAFC;
+            height: 100%;
+            position: relative; /* Needed for absolute positioning of background text */
+        }
+
+        /* --- BACKGROUND QUESTION WATERMARK --- */
+        .empty-greeting {
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            pointer-events: none; /* Allows clicks to pass through */
+            z-index: 0;
+            width: 80%;
+        }
+
+        .empty-greeting h2 {
+            font-size: 1.5rem;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+            opacity: 0.8;
+        }
+        
+        .empty-greeting p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            opacity: 0.7;
+        }
+
+        /* Messages Window */
+        .messages {
+            flex: 1;
+            padding: 32px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            z-index: 1; /* Sits above the watermark */
+            position: relative;
+        }
+
+        .user-message, .bot-message {
+            max-width: 75%;
+            padding: 16px 20px;
+            border-radius: 16px;
+            font-size: 0.95rem;
+            line-height: 1.55;
+            word-wrap: break-word;
+            animation: fadeInUp 0.3s ease-out;
+            box-sizing: border-box;
+        }
+
+        .user-message {
+            background-color: #ECE7F5;
+            color: var(--text-primary);
+            align-self: flex-end;
+            border-bottom-right-radius: 4px;
+            font-weight: 500;
+        }
+
+        .bot-message {
+            background-color: #FFFFFF;
+            color: var(--text-primary);
+            align-self: flex-start;
+            border-bottom-left-radius: 4px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.015);
+            border-left: 4px solid var(--accent-purple);
+        }
+
+        .input-area {
+            display: flex;
+            padding: 24px 32px;
+            background: #FFFFFF;
+            border-top: 1px solid var(--border-subtle);
+            gap: 12px;
+            z-index: 2;
+        }
+
+        #userInput {
+            flex: 1;
+            border: 1.5px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 14px 20px;
+            font-size: 0.95rem;
+            font-family: inherit;
+            outline: none;
+            transition: all 0.2s ease;
+        }
+
+        #userInput:focus {
+            border-color: var(--accent-purple);
+            box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.1);
+        }
+
+        #sendBtn {
+            background-color: var(--accent-purple);
+            color: #FFFFFF;
+            border: none;
+            padding: 14px 24px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        #sendBtn:hover {
+            background-color: #6D28D9;
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Column 1: Sidebar -->
+    <div class="sidebar">
+        <div class="logo">
+            <h2>🔍 AuditAI</h2>
+            <p class="industry">Expense Compliance Engine</p>
+            <div class="status">🟢 System Active</div>
+        </div>
+
+        <button id="newChat">
+            ➕ New Audit Session
+        </button>
+
+        <hr>
+
+        <h3>💬 Audit History</h3>
+        <div id="history" class="history">
+            <!-- Dynamic elements load here -->
+        </div>
+    </div>
+
+    <!-- Column 2: Main Chat Workspace -->
+    <div class="chat-area">
+        
+        <!-- The Background Question (Auto-hides via script at the bottom) -->
+        <div class="empty-greeting" id="bgGreeting">
+            <h2>What expense would you like to audit today?</h2>
+            <p>Your organization's Halcyon Expense Policy v3 is pre-loaded and ready.</p>
+        </div>
+
+        <div id="messages" class="messages">
+            <!-- Chat bubbles generated by script.js will appear here -->
+        </div>
+
+        <div class="input-area">
+            <input id="userInput" type="text" placeholder="Type your claim details to begin...">
+            <button id="sendBtn">Audit Claim</button>
+        </div>
+    </div>
+
+    <!-- Column 3: Instructions Panel -->
+    <div class="right-panel">
+        <h3>📋 Active Policy</h3>
+        <div class="instruction-card" style="background-color: var(--pastel-green); border-color: rgba(5, 150, 105, 0.15);">
+            <p style="color: var(--accent-green); margin-bottom: 4px;">Halcyon Expense Policy v3</p>
+            <span style="font-size: 0.78rem; color: var(--text-secondary); display: block; font-weight: 500;">
+                Effective as of July 1, 2026
+            </span>
+        </div>
+
+        <hr>
+
+        <h3>📝 Instructions for Audits</h3>
+        <div class="instruction-card">
+            <p>To audit a transaction:</p>
+            <ul>
+                <li><strong>Start:</strong> State your expense (e.g., "I spent $120 on a business dinner").</li>
+                <li><strong>Interactive Steps:</strong> The auditor will interview you step-by-step.</li>
+                <li><strong>Required Facts:</strong>
+                    <ul>
+                        <li>Employee Job Level</li>
+                        <li>Total Cost & Headcount</li>
+                        <li>Client Name</li>
+                        <li>Justification</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<!-- Your backend communication script -->
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+<!-- Tiny observer script to automatically hide the background question once script.js adds messages -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const messagesContainer = document.getElementById('messages');
+        const greeting = document.getElementById('bgGreeting');
+
+        // Check initially
+        if (messagesContainer.children.length > 0) {
+            greeting.style.display = 'none';
+        }
+
+        // Watch for any chat bubbles being added by script.js and hide the background text
+        const observer = new MutationObserver(function(mutations) {
+            if (messagesContainer.children.length > 0) {
+                greeting.style.display = 'none';
+            } else {
+                greeting.style.display = 'block';
+            }
+        });
+
+        observer.observe(messagesContainer, { childList: true });
+    });
+</script>
+
+</body>
+
+</html>
